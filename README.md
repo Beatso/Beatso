@@ -31,5 +31,5 @@
 ---
 
 ## Stats
-![alt text](https://github-readme-stats.vercel.app/api?username=Beatso&count_private=true&show_icons=true&hide_rank=true&hide_border=true "GitHub Stats")
+![alt text](https://github-readme-stats.vercel.app/api?username=Beatso&count_private=true&show_icons=true&hide_rank=true "GitHub Stats")
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatso&langs_count=3 "GitHub Stats")
