@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#54](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/54) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#53](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/53) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#51](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/51) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#53](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/53) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#52](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/52) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#48](https://github.com/Beatso/LittleImprovementsVariated/issues/48) in [Beatso/LittleImprovementsVariated](https://github.com/Beatso/LittleImprovementsVariated)
+2. 🗣 Commented on [#28](https://github.com/Beatso/LittleImprovementsVariated/issues/28) in [Beatso/LittleImprovementsVariated](https://github.com/Beatso/LittleImprovementsVariated)
+3. ❗️ Opened issue [#54](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/54) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Closed issue [#53](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/53) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#51](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/51) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
