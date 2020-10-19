@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/UtkarshVerma/ecosia-darker/issues/3) in [UtkarshVerma/ecosia-darker](https://github.com/UtkarshVerma/ecosia-darker)
-2. 🎉 Merged PR [#58](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/58) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#50](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/50) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#59](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/59) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#60](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/60) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+2. ❗️ Opened issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+3. 🗣 Commented on [#3](https://github.com/UtkarshVerma/ecosia-darker/issues/3) in [UtkarshVerma/ecosia-darker](https://github.com/UtkarshVerma/ecosia-darker)
+4. 🎉 Merged PR [#58](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/58) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#50](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/50) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
