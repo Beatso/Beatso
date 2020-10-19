@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-2. ❗️ Opened issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-3. 🗣 Commented on [#3](https://github.com/UtkarshVerma/ecosia-darker/issues/3) in [UtkarshVerma/ecosia-darker](https://github.com/UtkarshVerma/ecosia-darker)
-4. 🎉 Merged PR [#58](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/58) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Closed issue [#50](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/50) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#10](https://github.com/Levertion/minecraft-json-schemas/issues/10) in [Levertion/minecraft-json-schemas](https://github.com/Levertion/minecraft-json-schemas)
+2. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+3. ❗️ Opened issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+4. 🗣 Commented on [#3](https://github.com/UtkarshVerma/ecosia-darker/issues/3) in [UtkarshVerma/ecosia-darker](https://github.com/UtkarshVerma/ecosia-darker)
+5. 🎉 Merged PR [#58](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/58) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
