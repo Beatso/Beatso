@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Levertion/minecraft-json-schemas/issues/10) in [Levertion/minecraft-json-schemas](https://github.com/Levertion/minecraft-json-schemas)
-2. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-3. ❗️ Opened issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-4. 🗣 Commented on [#3](https://github.com/UtkarshVerma/ecosia-darker/issues/3) in [UtkarshVerma/ecosia-darker](https://github.com/UtkarshVerma/ecosia-darker)
-5. 🎉 Merged PR [#58](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/58) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#7](https://github.com/Vanilla-Extract/Extractor/issues/7) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Opened issue [#6](https://github.com/Vanilla-Extract/Extractor/issues/6) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. ❗️ Opened issue [#5](https://github.com/Vanilla-Extract/Extractor/issues/5) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. ❗️ Opened issue [#10](https://github.com/Levertion/minecraft-json-schemas/issues/10) in [Levertion/minecraft-json-schemas](https://github.com/Levertion/minecraft-json-schemas)
+5. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
 <!--END_SECTION:activity-->
 
 ---
