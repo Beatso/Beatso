@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/Vanilla-Extract/Extractor/issues/7) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. ❗️ Opened issue [#6](https://github.com/Vanilla-Extract/Extractor/issues/6) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-3. ❗️ Opened issue [#5](https://github.com/Vanilla-Extract/Extractor/issues/5) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. ❗️ Opened issue [#10](https://github.com/Levertion/minecraft-json-schemas/issues/10) in [Levertion/minecraft-json-schemas](https://github.com/Levertion/minecraft-json-schemas)
-5. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+1. ❗️ Closed issue [#8](https://github.com/Vanilla-Extract/Extractor/issues/8) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Closed issue [#5](https://github.com/Vanilla-Extract/Extractor/issues/5) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. 🗣 Commented on [#5](https://github.com/Vanilla-Extract/Extractor/issues/5) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. 🗣 Commented on [#8](https://github.com/Vanilla-Extract/Extractor/issues/8) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. ❗️ Opened issue [#7](https://github.com/Vanilla-Extract/Extractor/issues/7) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
 <!--END_SECTION:activity-->
 
 ---
