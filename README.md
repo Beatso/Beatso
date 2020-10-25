@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#68](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/68) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#67](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/67) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#66](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/66) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#64](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/64) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🎉 Merged PR [#65](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/65) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Closed issue [#68](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/68) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Closed issue [#67](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/67) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#68](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/68) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#67](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/67) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#66](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/66) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
