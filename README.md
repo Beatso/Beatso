@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/74) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#73](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/73) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🎉 Merged PR [#71](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/71) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#62](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/62) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 💪 Opened PR [#71](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/71) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#3](https://github.com/FingerMaps/FingerMapsWebsite/issues/3) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+2. ❗️ Opened issue [#74](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/74) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#73](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/73) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🎉 Merged PR [#71](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/71) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#62](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/62) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
