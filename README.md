@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/74) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#73](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/73) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#75](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/75) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#49](https://github.com/Beatso/LittleImprovementsVariated/issues/49) in [Beatso/LittleImprovementsVariated](https://github.com/Beatso/LittleImprovementsVariated)
-5. ❗️ Opened issue [#3](https://github.com/FingerMaps/FingerMapsWebsite/issues/3) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+1. ❗️ Closed issue [#74](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/74) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🗣 Commented on [#74](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/74) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#73](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/73) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#75](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/75) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#49](https://github.com/Beatso/LittleImprovementsVariated/issues/49) in [Beatso/LittleImprovementsVariated](https://github.com/Beatso/LittleImprovementsVariated)
 <!--END_SECTION:activity-->
 
 ---
