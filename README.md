@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/78) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#77](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/77) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#76](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/76) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#4](https://github.com/Vanilla-Extract/VanillaExtract/issues/4) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
-5. ❗️ Opened issue [#3](https://github.com/Vanilla-Extract/VanillaExtract/issues/3) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+1. ❗️ Closed issue [#77](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/77) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Closed issue [#76](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/76) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#75](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/75) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#78](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/78) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#77](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/77) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
