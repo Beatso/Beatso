@@ -27,10 +27,10 @@
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
-2. 🗣 Commented on [#258](https://github.com/victoriadrake/hugo-theme-introduction/issues/258) in [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction)
-3. ❗️ Closed issue [#258](https://github.com/victoriadrake/hugo-theme-introduction/issues/258) in [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction)
-4. ❗️ Opened issue [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
-5. ❗️ Opened issue [#258](https://github.com/victoriadrake/hugo-theme-introduction/issues/258) in [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction)
+2. ❗️ Opened issue [#96](https://github.com/victoriadrake/hugo-theme-sam/issues/96) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+3. ❗️ Closed issue [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+4. 🗣 Commented on [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+5. 🗣 Commented on [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
 <!--END_SECTION:activity-->
 
 ---
