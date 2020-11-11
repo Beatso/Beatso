@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#97](https://github.com/victoriadrake/hugo-theme-sam/issues/97) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
-2. 🗣 Commented on [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
-3. ❗️ Opened issue [#96](https://github.com/victoriadrake/hugo-theme-sam/issues/96) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
-4. ❗️ Closed issue [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
-5. 🗣 Commented on [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+1. 🗣 Commented on [#8](https://github.com/shikar/NODE_GOOGLE_TRANSLATE/issues/8) in [shikar/NODE_GOOGLE_TRANSLATE](https://github.com/shikar/NODE_GOOGLE_TRANSLATE)
+2. ❗️ Opened issue [#97](https://github.com/victoriadrake/hugo-theme-sam/issues/97) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+3. 🗣 Commented on [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+4. ❗️ Opened issue [#96](https://github.com/victoriadrake/hugo-theme-sam/issues/96) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+5. ❗️ Closed issue [#95](https://github.com/victoriadrake/hugo-theme-sam/issues/95) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
 <!--END_SECTION:activity-->
 
 ---
