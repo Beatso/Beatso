@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/81) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#2](https://github.com/Beatso/Website/issues/2) in [Beatso/Website](https://github.com/Beatso/Website)
-3. ❗️ Opened issue [#2](https://github.com/Beatso/Website/issues/2) in [Beatso/Website](https://github.com/Beatso/Website)
-4. 🗣 Commented on [#8](https://github.com/shikar/NODE_GOOGLE_TRANSLATE/issues/8) in [shikar/NODE_GOOGLE_TRANSLATE](https://github.com/shikar/NODE_GOOGLE_TRANSLATE)
-5. ❗️ Opened issue [#97](https://github.com/victoriadrake/hugo-theme-sam/issues/97) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
+1. ❗️ Opened issue [#2](https://github.com/Beatso/ResourcePackInfo/issues/2) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
+2. ❗️ Opened issue [#1](https://github.com/Beatso/ResourcePackInfo/issues/1) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
+3. ❗️ Closed issue [#1](https://github.com/Beatso/Website/issues/1) in [Beatso/Website](https://github.com/Beatso/Website)
+4. ❗️ Opened issue [#81](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/81) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#2](https://github.com/Beatso/Website/issues/2) in [Beatso/Website](https://github.com/Beatso/Website)
 <!--END_SECTION:activity-->
 
 ---
