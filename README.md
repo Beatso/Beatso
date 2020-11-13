@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-2. ❗️ Closed issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-3. ❗️ Opened issue [#2](https://github.com/Beatso/TranslateNonsense/issues/2) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-4. ❗️ Opened issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-5. ❗️ Opened issue [#2](https://github.com/Beatso/ResourcePackInfo/issues/2) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
+1. 💪 Opened PR [#1](https://github.com/Chromus-dev/chromus-dev.github.io/pull/1) in [Chromus-dev/chromus-dev.github.io](https://github.com/Chromus-dev/chromus-dev.github.io)
+2. ❗️ Opened issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+3. ❗️ Closed issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+4. ❗️ Opened issue [#2](https://github.com/Beatso/TranslateNonsense/issues/2) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+5. ❗️ Opened issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
 <!--END_SECTION:activity-->
 
 ---
