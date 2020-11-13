@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Chromus-dev/chromus-dev.github.io/pull/1) in [Chromus-dev/chromus-dev.github.io](https://github.com/Chromus-dev/chromus-dev.github.io)
-2. ❗️ Opened issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-3. ❗️ Closed issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-4. ❗️ Opened issue [#2](https://github.com/Beatso/TranslateNonsense/issues/2) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-5. ❗️ Opened issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+1. ❗️ Closed issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+2. ❗️ Closed issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+3. 🗣 Commented on [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+4. ❗️ Closed issue [#3](https://github.com/FingerMaps/FingerMapsWebsite/issues/3) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+5. 💪 Opened PR [#1](https://github.com/Chromus-dev/chromus-dev.github.io/pull/1) in [Chromus-dev/chromus-dev.github.io](https://github.com/Chromus-dev/chromus-dev.github.io)
 <!--END_SECTION:activity-->
 
 ---
