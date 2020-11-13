@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-2. ❗️ Closed issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-3. 🗣 Commented on [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-4. ❗️ Closed issue [#3](https://github.com/FingerMaps/FingerMapsWebsite/issues/3) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-5. 💪 Opened PR [#1](https://github.com/Chromus-dev/chromus-dev.github.io/pull/1) in [Chromus-dev/chromus-dev.github.io](https://github.com/Chromus-dev/chromus-dev.github.io)
+1. ❗️ Opened issue [#82](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/82) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Closed issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+3. ❗️ Closed issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+4. 🗣 Commented on [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+5. ❗️ Closed issue [#3](https://github.com/FingerMaps/FingerMapsWebsite/issues/3) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
 <!--END_SECTION:activity-->
 
 ---
