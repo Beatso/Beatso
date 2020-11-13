@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Beatso/ResourcePackInfo/issues/2) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
-2. ❗️ Opened issue [#1](https://github.com/Beatso/ResourcePackInfo/issues/1) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
-3. ❗️ Closed issue [#1](https://github.com/Beatso/Website/issues/1) in [Beatso/Website](https://github.com/Beatso/Website)
-4. ❗️ Opened issue [#81](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/81) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Closed issue [#2](https://github.com/Beatso/Website/issues/2) in [Beatso/Website](https://github.com/Beatso/Website)
+1. ❗️ Opened issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+2. ❗️ Closed issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+3. ❗️ Opened issue [#2](https://github.com/Beatso/TranslateNonsense/issues/2) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+4. ❗️ Opened issue [#1](https://github.com/Beatso/TranslateNonsense/issues/1) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+5. ❗️ Opened issue [#2](https://github.com/Beatso/ResourcePackInfo/issues/2) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
 <!--END_SECTION:activity-->
 
 ---
