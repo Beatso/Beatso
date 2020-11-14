@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#83](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/83) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#80](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/80) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#82](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/82) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
-5. ❗️ Closed issue [#2](https://github.com/FingerMaps/FingerMapsWebsite/issues/2) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
+1. ❗️ Closed issue [#82](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/82) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#83](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/83) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#80](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/80) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#82](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/82) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#1](https://github.com/FingerMaps/FingerMapsWebsite/issues/1) in [FingerMaps/FingerMapsWebsite](https://github.com/FingerMaps/FingerMapsWebsite)
 <!--END_SECTION:activity-->
 
 ---
