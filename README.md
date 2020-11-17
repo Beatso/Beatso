@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Vanilla-Extract/VanillaExtract/issues/4) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
-2. ❗️ Closed issue [#79](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/79) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🗣 Commented on [#79](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/79) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#91](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/91) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#92](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/92) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Closed issue [#4](https://github.com/Vanilla-Extract/VanillaExtract/issues/4) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+2. 🗣 Commented on [#4](https://github.com/Vanilla-Extract/VanillaExtract/issues/4) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+3. ❗️ Closed issue [#79](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/79) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🗣 Commented on [#79](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/79) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#91](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/91) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
