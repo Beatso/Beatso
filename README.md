@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/FingerMaps/FingerBot/issues/3) in [FingerMaps/FingerBot](https://github.com/FingerMaps/FingerBot)
-2. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerBot/issues/2) in [FingerMaps/FingerBot](https://github.com/FingerMaps/FingerBot)
-3. ❗️ Opened issue [#1](https://github.com/FingerMaps/FingerBot/issues/1) in [FingerMaps/FingerBot](https://github.com/FingerMaps/FingerBot)
-4. ❗️ Opened issue [#90](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/90) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#4](https://github.com/Beatso/Bjorn/issues/4) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Closed issue [#91](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/91) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#92](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/92) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#3](https://github.com/FingerMaps/FingerBot/issues/3) in [FingerMaps/FingerBot](https://github.com/FingerMaps/FingerBot)
+4. ❗️ Opened issue [#2](https://github.com/FingerMaps/FingerBot/issues/2) in [FingerMaps/FingerBot](https://github.com/FingerMaps/FingerBot)
+5. ❗️ Opened issue [#1](https://github.com/FingerMaps/FingerBot/issues/1) in [FingerMaps/FingerBot](https://github.com/FingerMaps/FingerBot)
 <!--END_SECTION:activity-->
 
 ---
