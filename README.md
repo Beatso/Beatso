@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Beatso/DiscordEmbedMaker/issues/1) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
-2. 🎉 Merged PR [#2](https://github.com/Beatso/DiscordEmbedMaker/pull/2) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
-3. 🎉 Merged PR [#5](https://github.com/Beatso/Bjorn/pull/5) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🎉 Merged PR [#1](https://github.com/Beatso/Schubert/pull/1) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-5. 🎉 Merged PR [#1](https://github.com/Beatso/Pinn/pull/1) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
+1. ❗️ Closed issue [#2](https://github.com/Beatso/SurvivalistsVsHitmen/issues/2) in [Beatso/SurvivalistsVsHitmen](https://github.com/Beatso/SurvivalistsVsHitmen)
+2. 🗣 Commented on [#1](https://github.com/Beatso/DiscordEmbedMaker/issues/1) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
+3. 🎉 Merged PR [#2](https://github.com/Beatso/DiscordEmbedMaker/pull/2) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
+4. 🎉 Merged PR [#5](https://github.com/Beatso/Bjorn/pull/5) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🎉 Merged PR [#1](https://github.com/Beatso/Schubert/pull/1) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
 <!--END_SECTION:activity-->
 
 ---
