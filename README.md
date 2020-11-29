@@ -36,5 +36,5 @@
 ---
 
 ## Stats
-![alt text](https://github-readme-stats.vercel.app/api?username=Beatso&count_private=true&show_icons=true&hide_rank=true&title_color=000000 "GitHub Stats")
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatso&langs_count=3&title_color=000000 "Most Used Languages")
+![alt text](https://github-readme-stats.vercel.app/api?username=Beatso&count_private=true&show_icons=true&hide_rank=true&theme=dark "GitHub Stats")
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatso&langs_count=3&theme=dark "Most Used Languages")
