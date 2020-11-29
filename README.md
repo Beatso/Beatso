@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
-2. ❗️ Closed issue [#2](https://github.com/Beatso/SurvivalistsVsHitmen/issues/2) in [Beatso/SurvivalistsVsHitmen](https://github.com/Beatso/SurvivalistsVsHitmen)
-3. 🗣 Commented on [#1](https://github.com/Beatso/DiscordEmbedMaker/issues/1) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
-4. 🎉 Merged PR [#2](https://github.com/Beatso/DiscordEmbedMaker/pull/2) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
-5. 🎉 Merged PR [#5](https://github.com/Beatso/Bjorn/pull/5) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🗣 Commented on [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
+2. ❗️ Opened issue [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
+3. ❗️ Closed issue [#2](https://github.com/Beatso/SurvivalistsVsHitmen/issues/2) in [Beatso/SurvivalistsVsHitmen](https://github.com/Beatso/SurvivalistsVsHitmen)
+4. 🗣 Commented on [#1](https://github.com/Beatso/DiscordEmbedMaker/issues/1) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
+5. 🎉 Merged PR [#2](https://github.com/Beatso/DiscordEmbedMaker/pull/2) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
 <!--END_SECTION:activity-->
 
 ---
