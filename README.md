@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#814](https://github.com/octocat/Hello-World/issues/814) in [octocat/Hello-World](https://github.com/octocat/Hello-World)
-2. ❗️ Opened issue [#110](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/110) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#109](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/109) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#108](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/108) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🎉 Merged PR [#104](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/104) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 🗣 Commented on [#1](https://github.com/Beatso/DiscordEmbedMaker/issues/1) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
+2. 🎉 Merged PR [#2](https://github.com/Beatso/DiscordEmbedMaker/pull/2) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
+3. 🎉 Merged PR [#5](https://github.com/Beatso/Bjorn/pull/5) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🎉 Merged PR [#1](https://github.com/Beatso/Schubert/pull/1) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+5. 🎉 Merged PR [#1](https://github.com/Beatso/Pinn/pull/1) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
 <!--END_SECTION:activity-->
 
 ---
