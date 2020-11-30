@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TheMrZZ/sandstone-cli/pull/1) in [TheMrZZ/sandstone-cli](https://github.com/TheMrZZ/sandstone-cli)
-2. 🗣 Commented on [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
+1. 💪 Opened PR [#1](https://github.com/TheMrZZ/sandstone-documentation/pull/1) in [TheMrZZ/sandstone-documentation](https://github.com/TheMrZZ/sandstone-documentation)
+2. 💪 Opened PR [#1](https://github.com/TheMrZZ/sandstone-cli/pull/1) in [TheMrZZ/sandstone-cli](https://github.com/TheMrZZ/sandstone-cli)
 3. 🗣 Commented on [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
-4. ❗️ Opened issue [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
-5. ❗️ Closed issue [#2](https://github.com/Beatso/SurvivalistsVsHitmen/issues/2) in [Beatso/SurvivalistsVsHitmen](https://github.com/Beatso/SurvivalistsVsHitmen)
+4. 🗣 Commented on [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
+5. ❗️ Opened issue [#38](https://github.com/TheMrZZ/sandstone/issues/38) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
 <!--END_SECTION:activity-->
 
 ---
