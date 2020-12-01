@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Beatso/Bjorn/pull/7) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. 🗣 Commented on [#7](https://github.com/Beatso/Bjorn/issues/7) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🎉 Merged PR [#6](https://github.com/Beatso/Bjorn/pull/6) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🎉 Merged PR [#112](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/112) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 💪 Opened PR [#1](https://github.com/TheMrZZ/sandstone-documentation/pull/1) in [TheMrZZ/sandstone-documentation](https://github.com/TheMrZZ/sandstone-documentation)
+1. 🎉 Merged PR [#113](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/113) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🎉 Merged PR [#7](https://github.com/Beatso/Bjorn/pull/7) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🗣 Commented on [#7](https://github.com/Beatso/Bjorn/issues/7) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🎉 Merged PR [#6](https://github.com/Beatso/Bjorn/pull/6) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🎉 Merged PR [#112](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/112) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
