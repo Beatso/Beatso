@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/Vanilla-Extract/Extractor/issues/12) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. ❗️ Opened issue [#11](https://github.com/Vanilla-Extract/Extractor/issues/11) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-3. ❗️ Opened issue [#10](https://github.com/Vanilla-Extract/Extractor/issues/10) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. ❗️ Opened issue [#9](https://github.com/Vanilla-Extract/Extractor/issues/9) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-5. ❗️ Opened issue [#114](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/114) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#116](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/116) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 💪 Opened PR [#115](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/115) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#12](https://github.com/Vanilla-Extract/Extractor/issues/12) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. ❗️ Opened issue [#11](https://github.com/Vanilla-Extract/Extractor/issues/11) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. ❗️ Opened issue [#10](https://github.com/Vanilla-Extract/Extractor/issues/10) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
 <!--END_SECTION:activity-->
 
 ---
