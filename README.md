@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#114](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/114) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🎉 Merged PR [#113](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/113) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🎉 Merged PR [#7](https://github.com/Beatso/Bjorn/pull/7) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#7](https://github.com/Beatso/Bjorn/issues/7) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🎉 Merged PR [#6](https://github.com/Beatso/Bjorn/pull/6) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Opened issue [#12](https://github.com/Vanilla-Extract/Extractor/issues/12) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Opened issue [#11](https://github.com/Vanilla-Extract/Extractor/issues/11) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. ❗️ Opened issue [#10](https://github.com/Vanilla-Extract/Extractor/issues/10) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. ❗️ Opened issue [#9](https://github.com/Vanilla-Extract/Extractor/issues/9) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. ❗️ Opened issue [#114](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/114) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
