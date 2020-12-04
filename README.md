@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/105) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#111](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/111) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#108](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/108) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🗣 Commented on [#108](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/108) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Closed issue [#109](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/109) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Closed issue [#110](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/110) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🗣 Commented on [#110](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/110) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🎉 Merged PR [#119](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/119) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🎉 Merged PR [#10](https://github.com/Beatso/Bjorn/pull/10) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Closed issue [#4](https://github.com/Beatso/Bjorn/issues/4) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
