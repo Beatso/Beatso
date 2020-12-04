@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#110](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/110) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#110](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/110) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🎉 Merged PR [#119](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/119) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🎉 Merged PR [#10](https://github.com/Beatso/Bjorn/pull/10) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Closed issue [#4](https://github.com/Beatso/Bjorn/issues/4) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Opened issue [#4272](https://github.com/simple-icons/simple-icons/issues/4272) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🗣 Commented on [#118](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/118) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#110](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/110) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🗣 Commented on [#110](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/110) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🎉 Merged PR [#119](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/119) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
