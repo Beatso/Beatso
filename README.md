@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/121) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#120](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/120) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 💪 Opened PR [#120](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/120) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#4272](https://github.com/simple-icons/simple-icons/issues/4272) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#118](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/118) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#123](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/123) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 💪 Opened PR [#121](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/121) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🗣 Commented on [#120](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/120) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 💪 Opened PR [#120](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/120) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#4272](https://github.com/simple-icons/simple-icons/issues/4272) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
