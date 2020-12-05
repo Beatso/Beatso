@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Vanilla-Extract/Extractor/pull/14) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. 💪 Opened PR [#14](https://github.com/Vanilla-Extract/Extractor/pull/14) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-3. 🎉 Merged PR [#13](https://github.com/Vanilla-Extract/Extractor/pull/13) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. ❗️ Closed issue [#7](https://github.com/Vanilla-Extract/Extractor/issues/7) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-5. 💪 Opened PR [#13](https://github.com/Vanilla-Extract/Extractor/pull/13) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+1. ❗️ Closed issue [#11](https://github.com/Vanilla-Extract/Extractor/issues/11) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. 🎉 Merged PR [#14](https://github.com/Vanilla-Extract/Extractor/pull/14) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. 💪 Opened PR [#14](https://github.com/Vanilla-Extract/Extractor/pull/14) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. 🎉 Merged PR [#13](https://github.com/Vanilla-Extract/Extractor/pull/13) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. ❗️ Closed issue [#7](https://github.com/Vanilla-Extract/Extractor/issues/7) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
 <!--END_SECTION:activity-->
 
 ---
