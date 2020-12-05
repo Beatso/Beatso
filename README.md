@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#124](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/124) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#123](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/123) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🎉 Merged PR [#121](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/121) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#117](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/117) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🎉 Merged PR [#122](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/122) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 🎉 Merged PR [#13](https://github.com/Vanilla-Extract/Extractor/pull/13) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Closed issue [#7](https://github.com/Vanilla-Extract/Extractor/issues/7) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. 💪 Opened PR [#13](https://github.com/Vanilla-Extract/Extractor/pull/13) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. 💪 Opened PR [#124](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/124) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#123](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/123) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
