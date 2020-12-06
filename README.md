@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Beatso/Bjorn/issues/3) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#11](https://github.com/Beatso/Bjorn/issues/11) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❗️ Closed issue [#12](https://github.com/Vanilla-Extract/Extractor/issues/12) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. ❗️ Opened issue [#125](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/125) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Closed issue [#11](https://github.com/Vanilla-Extract/Extractor/issues/11) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+1. ❗️ Closed issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+2. 🗣 Commented on [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+3. ❗️ Closed issue [#3](https://github.com/Beatso/Bjorn/issues/3) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Opened issue [#11](https://github.com/Beatso/Bjorn/issues/11) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Closed issue [#12](https://github.com/Vanilla-Extract/Extractor/issues/12) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
 <!--END_SECTION:activity-->
 
 ---
