@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-2. 🗣 Commented on [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-3. ❗️ Closed issue [#3](https://github.com/Beatso/Bjorn/issues/3) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Opened issue [#11](https://github.com/Beatso/Bjorn/issues/11) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Closed issue [#12](https://github.com/Vanilla-Extract/Extractor/issues/12) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+1. ❗️ Closed issue [#2](https://github.com/Beatso/TranslateNonsense/issues/2) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+2. ❗️ Closed issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+3. 🗣 Commented on [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+4. ❗️ Closed issue [#3](https://github.com/Beatso/Bjorn/issues/3) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Opened issue [#11](https://github.com/Beatso/Bjorn/issues/11) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
