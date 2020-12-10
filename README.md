@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Closed issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
+2. ❗️ Opened issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
 3. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#2](https://github.com/Beatso/TranslateNonsense/issues/2) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-5. ❗️ Closed issue [#3](https://github.com/Beatso/TranslateNonsense/issues/3) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+4. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
