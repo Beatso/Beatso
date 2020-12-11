@@ -26,10 +26,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
-2. ❗️ Opened issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
-3. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 💪 Opened PR [#62](https://github.com/jagrosh/GiveawayBot/pull/62) in [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot)
+2. ❗️ Opened issue [#1](https://github.com/Beatso/Chubot/issues/1) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
+3. ❗️ Closed issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
+4. ❗️ Opened issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
 5. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
