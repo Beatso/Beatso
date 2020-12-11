@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#128](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/128) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 💪 Opened PR [#62](https://github.com/jagrosh/GiveawayBot/pull/62) in [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot)
-3. ❗️ Opened issue [#1](https://github.com/Beatso/Chubot/issues/1) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
-4. ❗️ Closed issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
-5. ❗️ Opened issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
+1. ❗️ Closed issue [#1](https://github.com/Beatso/Chubot/issues/1) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
+2. ❗️ Opened issue [#128](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/128) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 💪 Opened PR [#62](https://github.com/jagrosh/GiveawayBot/pull/62) in [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot)
+4. ❗️ Opened issue [#1](https://github.com/Beatso/Chubot/issues/1) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
+5. ❗️ Closed issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
 <!--END_SECTION:activity-->
 
 ---
