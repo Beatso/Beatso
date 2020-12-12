@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#97](https://github.com/victoriadrake/hugo-theme-sam/issues/97) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
-4. ❗️ Opened issue [#15](https://github.com/Vanilla-Extract/Extractor/issues/15) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-5. ❗️ Closed issue [#2](https://github.com/Beatso/ResourcePackInfo/issues/2) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
+1. ❗️ Closed issue [#90](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/90) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🗣 Commented on [#90](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/90) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#97](https://github.com/victoriadrake/hugo-theme-sam/issues/97) in [victoriadrake/hugo-theme-sam](https://github.com/victoriadrake/hugo-theme-sam)
 <!--END_SECTION:activity-->
 
 ---
