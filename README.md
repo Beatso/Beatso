@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Beatso/Chubot/issues/1) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
-2. ❗️ Opened issue [#128](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/128) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 💪 Opened PR [#62](https://github.com/jagrosh/GiveawayBot/pull/62) in [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot)
-4. ❗️ Opened issue [#1](https://github.com/Beatso/Chubot/issues/1) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
-5. ❗️ Closed issue [#1](https://github.com/Beatso/DiscordCreationsWebhook/issues/1) in [Beatso/DiscordCreationsWebhook](https://github.com/Beatso/DiscordCreationsWebhook)
+1. ❗️ Opened issue [#15](https://github.com/Vanilla-Extract/Extractor/issues/15) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Closed issue [#2](https://github.com/Beatso/ResourcePackInfo/issues/2) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
+3. ❗️ Closed issue [#1](https://github.com/Beatso/Chubot/issues/1) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
+4. ❗️ Opened issue [#128](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/128) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 💪 Opened PR [#62](https://github.com/jagrosh/GiveawayBot/pull/62) in [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot)
 <!--END_SECTION:activity-->
 
 ---
