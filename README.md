@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#129](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/129) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#90](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/90) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🗣 Commented on [#90](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/90) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🗣 Commented on [#127](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/127) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#3](https://github.com/Beatso/Picasso/issues/3) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. 🗣 Commented on [#2](https://github.com/Beatso/Picasso/issues/2) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. 🎉 Merged PR [#1](https://github.com/Beatso/Picasso/pull/1) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. ❗️ Opened issue [#129](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/129) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#90](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/90) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
