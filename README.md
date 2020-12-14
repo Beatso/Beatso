@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/107) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Closed issue [#107](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/107) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 2. 🗣 Commented on [#107](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/107) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#129](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/129) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#130](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/130) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#3](https://github.com/Beatso/Picasso/issues/3) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. 🗣 Commented on [#107](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/107) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Closed issue [#129](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/129) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#130](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/130) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
