@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/Beatso/testing/issues/8) in [Beatso/testing](https://github.com/Beatso/testing)
-2. ❗️ Opened issue [#7](https://github.com/Beatso/testing/issues/7) in [Beatso/testing](https://github.com/Beatso/testing)
-3. ❗️ Opened issue [#833](https://github.com/octocat/Hello-World/issues/833) in [octocat/Hello-World](https://github.com/octocat/Hello-World)
-4. 🎉 Merged PR [#2](https://github.com/Beatso/SimpleAutoClicker/pull/2) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-5. 🎉 Merged PR [#1](https://github.com/Beatso/SimpleAutoClicker/pull/1) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+1. ❗️ Closed issue [#7](https://github.com/Beatso/testing/issues/7) in [Beatso/testing](https://github.com/Beatso/testing)
+2. ❗️ Closed issue [#8](https://github.com/Beatso/testing/issues/8) in [Beatso/testing](https://github.com/Beatso/testing)
+3. ❗️ Opened issue [#8](https://github.com/Beatso/testing/issues/8) in [Beatso/testing](https://github.com/Beatso/testing)
+4. ❗️ Opened issue [#7](https://github.com/Beatso/testing/issues/7) in [Beatso/testing](https://github.com/Beatso/testing)
+5. ❗️ Opened issue [#833](https://github.com/octocat/Hello-World/issues/833) in [octocat/Hello-World](https://github.com/octocat/Hello-World)
 <!--END_SECTION:activity-->
 
 ---
