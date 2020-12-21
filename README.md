@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/Beatso/Bjorn/issues/12) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Closed issue [#833](https://github.com/octocat/Hello-World/issues/833) in [octocat/Hello-World](https://github.com/octocat/Hello-World)
-3. 🎉 Merged PR [#132](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/132) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#7](https://github.com/Beatso/testing/issues/7) in [Beatso/testing](https://github.com/Beatso/testing)
-5. ❗️ Closed issue [#8](https://github.com/Beatso/testing/issues/8) in [Beatso/testing](https://github.com/Beatso/testing)
+1. ❗️ Opened issue [#14](https://github.com/Beatso/Bjorn/issues/14) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Opened issue [#13](https://github.com/Beatso/Bjorn/issues/13) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❌ Closed PR [#133](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/133) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 💪 Opened PR [#133](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/133) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#12](https://github.com/Beatso/Bjorn/issues/12) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
