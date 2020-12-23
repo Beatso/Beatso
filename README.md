@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Beatso/SimpleAutoClicker/issues/4) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-2. ❗️ Opened issue [#3](https://github.com/Beatso/SimpleAutoClicker/issues/3) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-3. 🎉 Merged PR [#4](https://github.com/Beatso/Picasso/pull/4) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. ❗️ Opened issue [#15](https://github.com/Beatso/Bjorn/issues/15) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#134](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/134) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#16](https://github.com/Vanilla-Extract/Extractor/issues/16) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Opened issue [#4](https://github.com/Beatso/SimpleAutoClicker/issues/4) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+3. ❗️ Opened issue [#3](https://github.com/Beatso/SimpleAutoClicker/issues/3) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+4. 🎉 Merged PR [#4](https://github.com/Beatso/Picasso/pull/4) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. ❗️ Opened issue [#15](https://github.com/Beatso/Bjorn/issues/15) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
