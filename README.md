@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
-2. ❗️ Opened issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
-4. 🎉 Merged PR [#5](https://github.com/Beatso/SimpleAutoClicker/pull/5) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-5. ❗️ Closed issue [#3](https://github.com/Beatso/SimpleAutoClicker/issues/3) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+1. ❗️ Opened issue [#5](https://github.com/Beatso/Picasso/issues/5) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. ❗️ Closed issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
+3. ❗️ Opened issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
+5. 🎉 Merged PR [#5](https://github.com/Beatso/SimpleAutoClicker/pull/5) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
 <!--END_SECTION:activity-->
 
 ---
