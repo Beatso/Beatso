@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Vanilla-Extract/Extractor/pull/19) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. ❗️ Closed issue [#9](https://github.com/Vanilla-Extract/Extractor/issues/9) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-3. 💪 Opened PR [#19](https://github.com/Vanilla-Extract/Extractor/pull/19) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-4. ❗️ Closed issue [#5](https://github.com/Beatso/Picasso/issues/5) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. ❗️ Closed issue [#3](https://github.com/Beatso/Picasso/issues/3) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. ❗️ Opened issue [#6](https://github.com/Beatso/Picasso/issues/6) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. 💪 Opened PR [#4](https://github.com/Chromus-dev/actual-bot/pull/4) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+3. 💪 Opened PR [#3](https://github.com/Chromus-dev/actual-bot/pull/3) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+4. 💪 Opened PR [#2](https://github.com/Chromus-dev/actual-bot/pull/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. 💪 Opened PR [#1](https://github.com/Chromus-dev/actual-bot/pull/1) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
 <!--END_SECTION:activity-->
 
 ---
