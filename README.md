@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
-3. 🎉 Merged PR [#5](https://github.com/Beatso/SimpleAutoClicker/pull/5) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-4. ❗️ Closed issue [#3](https://github.com/Beatso/SimpleAutoClicker/issues/3) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-5. ❗️ Opened issue [#17](https://github.com/Vanilla-Extract/Extractor/issues/17) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+1. ❗️ Closed issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
+2. ❗️ Opened issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
+4. 🎉 Merged PR [#5](https://github.com/Beatso/SimpleAutoClicker/pull/5) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+5. ❗️ Closed issue [#3](https://github.com/Beatso/SimpleAutoClicker/issues/3) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
 <!--END_SECTION:activity-->
 
 ---
