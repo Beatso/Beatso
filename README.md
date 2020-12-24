@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Beatso/Picasso/issues/5) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. ❗️ Closed issue [#3](https://github.com/Beatso/Picasso/issues/3) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. ❗️ Opened issue [#5](https://github.com/Beatso/Picasso/issues/5) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. ❗️ Closed issue [#3](https://github.com/GriefMoDz/better-status-indicators/issues/3) in [GriefMoDz/better-status-indicators](https://github.com/GriefMoDz/better-status-indicators)
-5. ❗️ Opened issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 🎉 Merged PR [#19](https://github.com/Vanilla-Extract/Extractor/pull/19) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Closed issue [#9](https://github.com/Vanilla-Extract/Extractor/issues/9) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. 💪 Opened PR [#19](https://github.com/Vanilla-Extract/Extractor/pull/19) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. ❗️ Closed issue [#5](https://github.com/Beatso/Picasso/issues/5) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. ❗️ Closed issue [#3](https://github.com/Beatso/Picasso/issues/3) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
