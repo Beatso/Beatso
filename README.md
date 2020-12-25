@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Chromus-dev/actual-bot/pull/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-2. 🗣 Commented on [#2](https://github.com/Chromus-dev/actual-bot/issues/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-3. 🎉 Merged PR [#1](https://github.com/Beatso/actual-bot/pull/1) in [Beatso/actual-bot](https://github.com/Beatso/actual-bot)
-4. 💪 Opened PR [#1](https://github.com/Beatso/actual-bot/pull/1) in [Beatso/actual-bot](https://github.com/Beatso/actual-bot)
-5. 🗣 Commented on [#2](https://github.com/Chromus-dev/actual-bot/issues/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+1. ❗️ Opened issue [#17](https://github.com/Beatso/Bjorn/issues/17) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❌ Closed PR [#2](https://github.com/Chromus-dev/actual-bot/pull/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+3. 🗣 Commented on [#2](https://github.com/Chromus-dev/actual-bot/issues/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+4. 🎉 Merged PR [#1](https://github.com/Beatso/actual-bot/pull/1) in [Beatso/actual-bot](https://github.com/Beatso/actual-bot)
+5. 💪 Opened PR [#1](https://github.com/Beatso/actual-bot/pull/1) in [Beatso/actual-bot](https://github.com/Beatso/actual-bot)
 <!--END_SECTION:activity-->
 
 ---
