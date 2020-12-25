@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/Beatso/Bjorn/issues/16) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🗣 Commented on [#2](https://github.com/Chromus-dev/actual-bot/issues/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🗣 Commented on [#1](https://github.com/7eventy7/Self-Serve/issues/1) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-5. ❗️ Closed issue [#2](https://github.com/7eventy7/Self-Serve/issues/2) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+1. 🗣 Commented on [#5130](https://github.com/sp614x/optifine/issues/5130) in [sp614x/optifine](https://github.com/sp614x/optifine)
+2. ❗️ Opened issue [#16](https://github.com/Beatso/Bjorn/issues/16) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Opened issue [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🗣 Commented on [#2](https://github.com/Chromus-dev/actual-bot/issues/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+5. 🗣 Commented on [#1](https://github.com/7eventy7/Self-Serve/issues/1) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
 <!--END_SECTION:activity-->
 
 ---
