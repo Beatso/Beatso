@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/Beatso/Bjorn/issues/17) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❌ Closed PR [#2](https://github.com/Chromus-dev/actual-bot/pull/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-3. 🗣 Commented on [#2](https://github.com/Chromus-dev/actual-bot/issues/2) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🎉 Merged PR [#1](https://github.com/Beatso/actual-bot/pull/1) in [Beatso/actual-bot](https://github.com/Beatso/actual-bot)
-5. 💪 Opened PR [#1](https://github.com/Beatso/actual-bot/pull/1) in [Beatso/actual-bot](https://github.com/Beatso/actual-bot)
+1. 🗣 Commented on [#7](https://github.com/7eventy7/Self-Serve/issues/7) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+2. 🗣 Commented on [#6](https://github.com/7eventy7/Self-Serve/issues/6) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+3. 🗣 Commented on [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+4. 🗣 Commented on [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+5. ❗️ Opened issue [#17](https://github.com/Beatso/Bjorn/issues/17) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
