@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Beatso/Bjorn/issues/19) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. 🗣 Commented on [#19](https://github.com/Beatso/Bjorn/issues/19) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❗️ Closed issue [#18](https://github.com/Beatso/Bjorn/issues/18) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#18](https://github.com/Beatso/Bjorn/issues/18) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#11](https://github.com/7eventy7/Self-Serve/issues/11) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+1. ❗️ Opened issue [#22](https://github.com/Beatso/Bjorn/issues/22) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Opened issue [#21](https://github.com/Beatso/Bjorn/issues/21) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Opened issue [#20](https://github.com/Beatso/Bjorn/issues/20) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Opened issue [#4](https://github.com/Beatso/ResourcePackInfo/issues/4) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
+5. ❗️ Opened issue [#3](https://github.com/Beatso/ResourcePackInfo/issues/3) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
 <!--END_SECTION:activity-->
 
 ---
