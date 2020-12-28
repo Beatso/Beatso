@@ -28,9 +28,9 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Beatso/CraftYourWorld-Bot/pull/1) in [Beatso/CraftYourWorld-Bot](https://github.com/Beatso/CraftYourWorld-Bot)
 2. 💪 Opened PR [#1](https://github.com/Beatso/CraftYourWorld-Bot/pull/1) in [Beatso/CraftYourWorld-Bot](https://github.com/Beatso/CraftYourWorld-Bot)
-3. 💪 Opened PR [#2](https://github.com/Nigelrex/CraftYourWorld-Bot/pull/2) in [Nigelrex/CraftYourWorld-Bot](https://github.com/Nigelrex/CraftYourWorld-Bot)
-4. 💪 Opened PR [#1](https://github.com/Nigelrex/CraftYourWorld-Bot/pull/1) in [Nigelrex/CraftYourWorld-Bot](https://github.com/Nigelrex/CraftYourWorld-Bot)
-5. ❗️ Closed issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Closed issue [#137](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/137) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🗣 Commented on [#11](https://github.com/Beatso/Bjorn/issues/11) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
