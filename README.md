@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#15](https://github.com/Vanilla-Extract/Extractor/issues/15) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. ❗️ Opened issue [#137](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/137) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#21](https://github.com/Beatso/Bjorn/issues/21) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Closed issue [#22](https://github.com/Beatso/Bjorn/issues/22) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Closed issue [#17](https://github.com/Beatso/Bjorn/issues/17) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🗣 Commented on [#2](https://github.com/Vanilla-Extract/VanillaExtract/issues/2) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+2. ❗️ Opened issue [#10](https://github.com/Vanilla-Extract/VanillaExtract/issues/10) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+3. ❗️ Closed issue [#15](https://github.com/Vanilla-Extract/Extractor/issues/15) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+4. ❗️ Reopened issue [#15](https://github.com/Vanilla-Extract/Extractor/issues/15) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. ❗️ Opened issue [#137](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/137) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
