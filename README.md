@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/7eventy7/Self-Serve/issues/1) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-2. ❗️ Closed issue [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-3. 🗣 Commented on [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-4. ❗️ Closed issue [#11](https://github.com/7eventy7/Self-Serve/issues/11) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-5. 🗣 Commented on [#11](https://github.com/7eventy7/Self-Serve/issues/11) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+1. ❗️ Closed issue [#4](https://github.com/7eventy7/Self-Serve/issues/4) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+2. ❗️ Closed issue [#1](https://github.com/7eventy7/Self-Serve/issues/1) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+3. ❗️ Closed issue [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+4. 🗣 Commented on [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+5. ❗️ Closed issue [#11](https://github.com/7eventy7/Self-Serve/issues/11) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
 <!--END_SECTION:activity-->
 
 ---
