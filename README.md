@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🎉 Merged PR [#1](https://github.com/Beatso/CraftYourWorld-Bot/pull/1) in [Beatso/CraftYourWorld-Bot](https://github.com/Beatso/CraftYourWorld-Bot)
-4. 💪 Opened PR [#1](https://github.com/Beatso/CraftYourWorld-Bot/pull/1) in [Beatso/CraftYourWorld-Bot](https://github.com/Beatso/CraftYourWorld-Bot)
-5. ❗️ Closed issue [#135](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/135) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#1](https://github.com/Beatso/UsefulAsepriteScripts/issues/1) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
+2. ❗️ Closed issue [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🗣 Commented on [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🎉 Merged PR [#1](https://github.com/Beatso/CraftYourWorld-Bot/pull/1) in [Beatso/CraftYourWorld-Bot](https://github.com/Beatso/CraftYourWorld-Bot)
+5. 💪 Opened PR [#1](https://github.com/Beatso/CraftYourWorld-Bot/pull/1) in [Beatso/CraftYourWorld-Bot](https://github.com/Beatso/CraftYourWorld-Bot)
 <!--END_SECTION:activity-->
 
 ---
