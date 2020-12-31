@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#768](https://github.com/anuraghazra/github-readme-stats/pull/768) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. ❗️ Opened issue [#1](https://github.com/Beatso/UsefulAsepriteScripts/issues/1) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
-3. ❗️ Closed issue [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🗣 Commented on [#136](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/136) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🎉 Merged PR [#1](https://github.com/Beatso/CraftYourWorld-Bot/pull/1) in [Beatso/CraftYourWorld-Bot](https://github.com/Beatso/CraftYourWorld-Bot)
+1. ❗️ Closed issue [#1](https://github.com/7eventy7/Self-Serve/issues/1) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+2. ❗️ Closed issue [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+3. 🗣 Commented on [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+4. ❗️ Closed issue [#11](https://github.com/7eventy7/Self-Serve/issues/11) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+5. 🗣 Commented on [#11](https://github.com/7eventy7/Self-Serve/issues/11) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
 <!--END_SECTION:activity-->
 
 ---
