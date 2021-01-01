@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/7eventy7/Self-Serve/issues/4) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-2. ❗️ Closed issue [#1](https://github.com/7eventy7/Self-Serve/issues/1) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-3. ❗️ Closed issue [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-4. 🗣 Commented on [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-5. ❗️ Closed issue [#11](https://github.com/7eventy7/Self-Serve/issues/11) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+1. ❗️ Opened issue [#23](https://github.com/Beatso/Bjorn/issues/23) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Opened issue [#139](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/139) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#4](https://github.com/7eventy7/Self-Serve/issues/4) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+4. ❗️ Closed issue [#1](https://github.com/7eventy7/Self-Serve/issues/1) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+5. ❗️ Closed issue [#5](https://github.com/7eventy7/Self-Serve/issues/5) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
 <!--END_SECTION:activity-->
 
 ---
