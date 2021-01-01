@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Beatso/UsefulAsepriteScripts/issues/2) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
-2. ❗️ Opened issue [#142](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/142) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#14](https://github.com/7eventy7/Self-Serve/issues/14) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-4. 🗣 Commented on [#14](https://github.com/7eventy7/Self-Serve/issues/14) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-5. ❗️ Opened issue [#24](https://github.com/Beatso/Bjorn/issues/24) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Opened issue [#3](https://github.com/Beatso/UsefulAsepriteScripts/issues/3) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
+2. ❗️ Opened issue [#2](https://github.com/Beatso/UsefulAsepriteScripts/issues/2) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
+3. ❗️ Opened issue [#142](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/142) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Closed issue [#14](https://github.com/7eventy7/Self-Serve/issues/14) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+5. 🗣 Commented on [#14](https://github.com/7eventy7/Self-Serve/issues/14) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
 <!--END_SECTION:activity-->
 
 ---
