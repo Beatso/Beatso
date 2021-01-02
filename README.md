@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#145](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/145) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#144](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/144) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🗣 Commented on [#140](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/140) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#16](https://github.com/7eventy7/Self-Serve/issues/16) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-5. ❗️ Closed issue [#2](https://github.com/Beatso/UsefulAsepriteScripts/issues/2) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
+1. 💪 Opened PR [#146](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/146) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Closed issue [#144](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/144) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#142](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/142) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#145](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/145) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#144](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/144) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
