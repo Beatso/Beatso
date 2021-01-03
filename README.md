@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/7eventy7/Self-Serve/issues/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-2. 🎉 Merged PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-3. ❌ Reopened PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-4. ❗️ Opened issue [#25](https://github.com/Beatso/Bjorn/issues/25) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Closed issue [#16](https://github.com/7eventy7/Self-Serve/issues/16) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+1. ❗️ Opened issue [#26](https://github.com/Beatso/Bjorn/issues/26) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 🗣 Commented on [#17](https://github.com/7eventy7/Self-Serve/issues/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+3. 🎉 Merged PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+4. ❌ Reopened PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+5. ❗️ Opened issue [#25](https://github.com/Beatso/Bjorn/issues/25) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
