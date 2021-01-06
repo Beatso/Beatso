@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/Vanilla-Extract/Extractor/issues/20) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. ❗️ Opened issue [#26](https://github.com/Beatso/Bjorn/issues/26) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🗣 Commented on [#17](https://github.com/7eventy7/Self-Serve/issues/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-4. 🎉 Merged PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-5. ❌ Reopened PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+1. ❗️ Opened issue [#21](https://github.com/Vanilla-Extract/Extractor/issues/21) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. ❗️ Opened issue [#20](https://github.com/Vanilla-Extract/Extractor/issues/20) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+3. ❗️ Opened issue [#26](https://github.com/Beatso/Bjorn/issues/26) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🗣 Commented on [#17](https://github.com/7eventy7/Self-Serve/issues/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+5. 🎉 Merged PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
 <!--END_SECTION:activity-->
 
 ---
