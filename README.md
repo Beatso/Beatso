@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/Vanilla-Extract/Extractor/issues/21) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. ❗️ Opened issue [#20](https://github.com/Vanilla-Extract/Extractor/issues/20) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-3. ❗️ Opened issue [#26](https://github.com/Beatso/Bjorn/issues/26) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#17](https://github.com/7eventy7/Self-Serve/issues/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
-5. 🎉 Merged PR [#17](https://github.com/7eventy7/Self-Serve/pull/17) in [7eventy7/Self-Serve](https://github.com/7eventy7/Self-Serve)
+1. ❗️ Opened issue [#2](https://github.com/Beatso/Schubert/issues/2) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+2. ❗️ Opened issue [#29](https://github.com/Beatso/Bjorn/issues/29) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Opened issue [#28](https://github.com/Beatso/Bjorn/issues/28) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Closed issue [#26](https://github.com/Beatso/Bjorn/issues/26) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Closed issue [#23](https://github.com/Beatso/Bjorn/issues/23) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
