@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Beatso/Schubert/issues/2) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-2. ❗️ Opened issue [#29](https://github.com/Beatso/Bjorn/issues/29) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❗️ Opened issue [#28](https://github.com/Beatso/Bjorn/issues/28) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Closed issue [#26](https://github.com/Beatso/Bjorn/issues/26) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Closed issue [#23](https://github.com/Beatso/Bjorn/issues/23) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Closed issue [#24](https://github.com/Beatso/Bjorn/issues/24) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❌ Closed PR [#19](https://github.com/Beatso/Bjorn/pull/19) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 💪 Opened PR [#30](https://github.com/Beatso/Bjorn/pull/30) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Opened issue [#2](https://github.com/Beatso/Schubert/issues/2) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+5. ❗️ Opened issue [#29](https://github.com/Beatso/Bjorn/issues/29) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
