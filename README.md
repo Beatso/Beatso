@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#148](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/148) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#24](https://github.com/Beatso/Bjorn/issues/24) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❌ Closed PR [#19](https://github.com/Beatso/Bjorn/pull/19) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 💪 Opened PR [#30](https://github.com/Beatso/Bjorn/pull/30) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#2](https://github.com/Beatso/Schubert/issues/2) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+1. ❗️ Opened issue [#31](https://github.com/Beatso/Bjorn/issues/31) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Opened issue [#148](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/148) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#24](https://github.com/Beatso/Bjorn/issues/24) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❌ Closed PR [#19](https://github.com/Beatso/Bjorn/pull/19) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 💪 Opened PR [#30](https://github.com/Beatso/Bjorn/pull/30) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
