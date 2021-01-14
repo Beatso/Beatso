@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Beatso/testing/issues/10) in [Beatso/testing](https://github.com/Beatso/testing)
-2. ❗️ Opened issue [#9](https://github.com/Beatso/testing/issues/9) in [Beatso/testing](https://github.com/Beatso/testing)
-3. ❗️ Closed issue [#33](https://github.com/Beatso/Bjorn/issues/33) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Opened issue [#33](https://github.com/Beatso/Bjorn/issues/33) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#32](https://github.com/Beatso/Bjorn/issues/32) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Closed issue [#15](https://github.com/Beatso/testing/issues/15) in [Beatso/testing](https://github.com/Beatso/testing)
+2. ❗️ Closed issue [#14](https://github.com/Beatso/testing/issues/14) in [Beatso/testing](https://github.com/Beatso/testing)
+3. ❗️ Closed issue [#13](https://github.com/Beatso/testing/issues/13) in [Beatso/testing](https://github.com/Beatso/testing)
+4. ❗️ Closed issue [#12](https://github.com/Beatso/testing/issues/12) in [Beatso/testing](https://github.com/Beatso/testing)
+5. ❗️ Closed issue [#11](https://github.com/Beatso/testing/issues/11) in [Beatso/testing](https://github.com/Beatso/testing)
 <!--END_SECTION:activity-->
 
 ---
