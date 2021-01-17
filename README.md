@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/Beatso/Bjorn/issues/36) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#35](https://github.com/Beatso/Bjorn/issues/35) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❗️ Opened issue [#34](https://github.com/Beatso/Bjorn/issues/34) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Closed issue [#32](https://github.com/Beatso/Bjorn/issues/32) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Closed issue [#15](https://github.com/Beatso/testing/issues/15) in [Beatso/testing](https://github.com/Beatso/testing)
+1. ❗️ Opened issue [#150](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/150) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#36](https://github.com/Beatso/Bjorn/issues/36) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Opened issue [#35](https://github.com/Beatso/Bjorn/issues/35) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Opened issue [#34](https://github.com/Beatso/Bjorn/issues/34) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Closed issue [#32](https://github.com/Beatso/Bjorn/issues/32) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
