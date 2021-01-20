@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Beatso/Bjorn/issues/28) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#7](https://github.com/Beatso/SimpleAutoClicker/issues/7) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-3. ❗️ Opened issue [#6](https://github.com/Beatso/SimpleAutoClicker/issues/6) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-4. ❗️ Opened issue [#150](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/150) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#36](https://github.com/Beatso/Bjorn/issues/36) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🎉 Merged PR [#149](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/149) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🎉 Merged PR [#11](https://github.com/Vanilla-Extract/VanillaExtract/pull/11) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
+3. 🗣 Commented on [#28](https://github.com/Beatso/Bjorn/issues/28) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Opened issue [#7](https://github.com/Beatso/SimpleAutoClicker/issues/7) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+5. ❗️ Opened issue [#6](https://github.com/Beatso/SimpleAutoClicker/issues/6) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
 <!--END_SECTION:activity-->
 
 ---
