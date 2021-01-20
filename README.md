@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/149) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🎉 Merged PR [#11](https://github.com/Vanilla-Extract/VanillaExtract/pull/11) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
-3. 🗣 Commented on [#28](https://github.com/Beatso/Bjorn/issues/28) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Opened issue [#7](https://github.com/Beatso/SimpleAutoClicker/issues/7) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-5. ❗️ Opened issue [#6](https://github.com/Beatso/SimpleAutoClicker/issues/6) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+1. 🎉 Merged PR [#146](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/146) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Closed issue [#145](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/145) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🎉 Merged PR [#147](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/147) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🎉 Merged PR [#149](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/149) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🎉 Merged PR [#11](https://github.com/Vanilla-Extract/VanillaExtract/pull/11) in [Vanilla-Extract/VanillaExtract](https://github.com/Vanilla-Extract/VanillaExtract)
 <!--END_SECTION:activity-->
 
 ---
