@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Beatso/ScalePixelArt/pull/1) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
-2. 🎉 Merged PR [#152](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/152) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 💪 Opened PR [#152](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/152) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#148](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/148) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🗣 Commented on [#125](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/125) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 🎉 Merged PR [#153](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/153) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🎉 Merged PR [#1](https://github.com/Beatso/ScalePixelArt/pull/1) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+3. 🎉 Merged PR [#152](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/152) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 💪 Opened PR [#152](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/152) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#148](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/148) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
