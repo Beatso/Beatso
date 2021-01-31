@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Beatso/Website/issues/4) in [Beatso/Website](https://github.com/Beatso/Website)
-2. 🎉 Merged PR [#162](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/162) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#40](https://github.com/Beatso/Bjorn/issues/40) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Opened issue [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. ❗️ Closed issue [#7](https://github.com/Beatso/Picasso/issues/7) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. 🗣 Commented on [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. ❗️ Closed issue [#4](https://github.com/Beatso/Website/issues/4) in [Beatso/Website](https://github.com/Beatso/Website)
+3. ❗️ Closed issue [#3](https://github.com/Beatso/Website/issues/3) in [Beatso/Website](https://github.com/Beatso/Website)
+4. ❗️ Opened issue [#4](https://github.com/Beatso/Website/issues/4) in [Beatso/Website](https://github.com/Beatso/Website)
+5. 🎉 Merged PR [#162](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/162) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
