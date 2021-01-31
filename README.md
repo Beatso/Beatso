@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/Beatso/Bjorn/issues/40) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. ❗️ Closed issue [#7](https://github.com/Beatso/Picasso/issues/7) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. 🗣 Commented on [#7](https://github.com/Beatso/Picasso/issues/7) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. ❗️ Opened issue [#161](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/161) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 🎉 Merged PR [#162](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/162) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#40](https://github.com/Beatso/Bjorn/issues/40) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Opened issue [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. ❗️ Closed issue [#7](https://github.com/Beatso/Picasso/issues/7) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. 🗣 Commented on [#7](https://github.com/Beatso/Picasso/issues/7) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
