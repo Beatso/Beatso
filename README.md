@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/Beatso/Picasso/issues/9) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. ❗️ Closed issue [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. 🗣 Commented on [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. ❗️ Closed issue [#4](https://github.com/Beatso/Website/issues/4) in [Beatso/Website](https://github.com/Beatso/Website)
-5. ❗️ Closed issue [#3](https://github.com/Beatso/Website/issues/3) in [Beatso/Website](https://github.com/Beatso/Website)
+1. ❗️ Opened issue [#41](https://github.com/Beatso/Bjorn/issues/41) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Opened issue [#9](https://github.com/Beatso/Picasso/issues/9) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. ❗️ Closed issue [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. 🗣 Commented on [#8](https://github.com/Beatso/Picasso/issues/8) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. ❗️ Closed issue [#4](https://github.com/Beatso/Website/issues/4) in [Beatso/Website](https://github.com/Beatso/Website)
 <!--END_SECTION:activity-->
 
 ---
