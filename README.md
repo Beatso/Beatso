@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#165](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/165) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#164](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/164) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#163](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/163) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🎉 Merged PR [#43](https://github.com/Beatso/Bjorn/pull/43) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#42](https://github.com/Beatso/Bjorn/issues/42) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Closed issue [#10](https://github.com/Beatso/Picasso/issues/10) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. ❗️ Closed issue [#9](https://github.com/Beatso/Picasso/issues/9) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. ❗️ Opened issue [#165](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/165) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#164](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/164) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#163](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/163) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
