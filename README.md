@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/Beatso/Bjorn/issues/41) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. 🎉 Merged PR [#45](https://github.com/Beatso/Bjorn/pull/45) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 💪 Opened PR [#45](https://github.com/Beatso/Bjorn/pull/45) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#5291](https://github.com/sp614x/optifine/issues/5291) in [sp614x/optifine](https://github.com/sp614x/optifine)
-5. 🎉 Merged PR [#166](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/166) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Closed issue [#44](https://github.com/Beatso/Bjorn/issues/44) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Closed issue [#41](https://github.com/Beatso/Bjorn/issues/41) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🎉 Merged PR [#45](https://github.com/Beatso/Bjorn/pull/45) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 💪 Opened PR [#45](https://github.com/Beatso/Bjorn/pull/45) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🗣 Commented on [#5291](https://github.com/sp614x/optifine/issues/5291) in [sp614x/optifine](https://github.com/sp614x/optifine)
 <!--END_SECTION:activity-->
 
 ---
