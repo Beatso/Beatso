@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/Beatso/Picasso/issues/11) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. ❗️ Opened issue [#44](https://github.com/Beatso/Bjorn/issues/44) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❗️ Closed issue [#6](https://github.com/Beatso/Picasso/issues/6) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. ❗️ Closed issue [#10](https://github.com/Beatso/Picasso/issues/10) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. ❗️ Closed issue [#9](https://github.com/Beatso/Picasso/issues/9) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. 🎉 Merged PR [#166](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/166) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#11](https://github.com/Beatso/Picasso/issues/11) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. ❗️ Opened issue [#44](https://github.com/Beatso/Bjorn/issues/44) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Closed issue [#6](https://github.com/Beatso/Picasso/issues/6) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. ❗️ Closed issue [#10](https://github.com/Beatso/Picasso/issues/10) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
