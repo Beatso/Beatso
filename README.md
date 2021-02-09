@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Beatso/UsefulAsepriteScripts/issues/4) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
-2. ❗️ Closed issue [#168](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/168) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#168](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/168) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🎉 Merged PR [#167](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/167) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Closed issue [#42](https://github.com/Beatso/Bjorn/issues/42) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🎉 Merged PR [#3](https://github.com/Beatso/DiscordEmbedMaker/pull/3) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
+2. ❗️ Opened issue [#4](https://github.com/Beatso/UsefulAsepriteScripts/issues/4) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
+3. ❗️ Closed issue [#168](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/168) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#168](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/168) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🎉 Merged PR [#167](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/167) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
