@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#169](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/169) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🎉 Merged PR [#3](https://github.com/Beatso/DiscordEmbedMaker/pull/3) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
-3. ❗️ Opened issue [#4](https://github.com/Beatso/UsefulAsepriteScripts/issues/4) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
-4. ❗️ Closed issue [#168](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/168) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#168](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/168) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#12](https://github.com/Beatso/Picasso/issues/12) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. 🎉 Merged PR [#169](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/169) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🎉 Merged PR [#3](https://github.com/Beatso/DiscordEmbedMaker/pull/3) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
+4. ❗️ Opened issue [#4](https://github.com/Beatso/UsefulAsepriteScripts/issues/4) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
+5. ❗️ Closed issue [#168](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/168) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
