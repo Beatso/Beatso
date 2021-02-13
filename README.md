@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/171) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#12](https://github.com/Beatso/Picasso/issues/12) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. 🎉 Merged PR [#169](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/169) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🎉 Merged PR [#3](https://github.com/Beatso/DiscordEmbedMaker/pull/3) in [Beatso/DiscordEmbedMaker](https://github.com/Beatso/DiscordEmbedMaker)
-5. ❗️ Opened issue [#4](https://github.com/Beatso/UsefulAsepriteScripts/issues/4) in [Beatso/UsefulAsepriteScripts](https://github.com/Beatso/UsefulAsepriteScripts)
+1. ❗️ Closed issue [#173](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/173) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🗣 Commented on [#173](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/173) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🗣 Commented on [#171](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/171) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#12](https://github.com/Beatso/Picasso/issues/12) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. 🎉 Merged PR [#169](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/169) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
