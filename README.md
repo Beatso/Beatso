@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#173](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/173) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#173](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/173) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🗣 Commented on [#171](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/171) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#12](https://github.com/Beatso/Picasso/issues/12) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. 🎉 Merged PR [#169](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/169) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#11](https://github.com/MuddysBundle/MuddysBundle/issues/11) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+2. ❗️ Opened issue [#10](https://github.com/MuddysBundle/MuddysBundle/issues/10) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. ❗️ Opened issue [#9](https://github.com/MuddysBundle/MuddysBundle/issues/9) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. ❗️ Opened issue [#8](https://github.com/MuddysBundle/MuddysBundle/issues/8) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❗️ Opened issue [#7](https://github.com/MuddysBundle/MuddysBundle/issues/7) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
