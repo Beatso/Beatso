@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Little Improvements: Custom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 - 🌱 I’m currently learning [Node.js](https://nodejs.org/)
 - 📫 Reach me on discord Beatso#1815 or on [my server](https://discord.gg/bNcZjFe)
-- 😄 Pronouns: he/him or they/them
+- 😄 Pronouns: he/him
 
 ---
 
