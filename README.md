@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#175](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/175) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#13](https://github.com/Beatso/Picasso/issues/13) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. ❗️ Opened issue [#5](https://github.com/Beatso/ResourcePackInfo/issues/5) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
-4. 🎉 Merged PR [#174](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/174) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#11](https://github.com/MuddysBundle/MuddysBundle/issues/11) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+1. ❗️ Opened issue [#176](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/176) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#175](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/175) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#13](https://github.com/Beatso/Picasso/issues/13) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. ❗️ Opened issue [#5](https://github.com/Beatso/ResourcePackInfo/issues/5) in [Beatso/ResourcePackInfo](https://github.com/Beatso/ResourcePackInfo)
+5. 🎉 Merged PR [#174](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/174) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
