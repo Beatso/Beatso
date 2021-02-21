@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Beatso/Beatso/issues/2) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
-2. ❗️ Opened issue [#1](https://github.com/Beatso/Beatso/issues/1) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
-3. 🗣 Commented on [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
-4. 💪 Opened PR [#3](https://github.com/MrMelon54/armored-elytra-fabric-1.16/pull/3) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
-5. ❗️ Opened issue [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
+1. ❗️ Closed issue [#11](https://github.com/MuddysBundle/MuddysBundle/issues/11) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+2. 🗣 Commented on [#11](https://github.com/MuddysBundle/MuddysBundle/issues/11) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. ❗️ Opened issue [#2](https://github.com/Beatso/Beatso/issues/2) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
+4. ❗️ Opened issue [#1](https://github.com/Beatso/Beatso/issues/1) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
+5. 🗣 Commented on [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
 <!--END_SECTION:activity-->
 
 ---
