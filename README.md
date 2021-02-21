@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/gnembon/chat-up/issues/5) in [gnembon/chat-up](https://github.com/gnembon/chat-up)
+1. ❗️ Opened issue [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
 2. 🗣 Commented on [#5](https://github.com/gnembon/chat-up/issues/5) in [gnembon/chat-up](https://github.com/gnembon/chat-up)
-3. ❗️ Opened issue [#176](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/176) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#175](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/175) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#13](https://github.com/Beatso/Picasso/issues/13) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. 🗣 Commented on [#5](https://github.com/gnembon/chat-up/issues/5) in [gnembon/chat-up](https://github.com/gnembon/chat-up)
+4. ❗️ Opened issue [#176](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/176) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#175](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/175) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
