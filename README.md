@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
-2. 💪 Opened PR [#3](https://github.com/MrMelon54/armored-elytra-fabric-1.16/pull/3) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
-3. ❗️ Opened issue [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
-4. 🗣 Commented on [#5](https://github.com/gnembon/chat-up/issues/5) in [gnembon/chat-up](https://github.com/gnembon/chat-up)
-5. 🗣 Commented on [#5](https://github.com/gnembon/chat-up/issues/5) in [gnembon/chat-up](https://github.com/gnembon/chat-up)
+1. ❗️ Opened issue [#2](https://github.com/Beatso/Beatso/issues/2) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
+2. ❗️ Opened issue [#1](https://github.com/Beatso/Beatso/issues/1) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
+3. 🗣 Commented on [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
+4. 💪 Opened PR [#3](https://github.com/MrMelon54/armored-elytra-fabric-1.16/pull/3) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
+5. ❗️ Opened issue [#2](https://github.com/MrMelon54/armored-elytra-fabric-1.16/issues/2) in [MrMelon54/armored-elytra-fabric-1.16](https://github.com/MrMelon54/armored-elytra-fabric-1.16)
 <!--END_SECTION:activity-->
 
 ---
