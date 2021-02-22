@@ -17,10 +17,10 @@
 
 ## My Projects
 - [Little Improvements: Custom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom), an open-source resource pack picker made for Minecraft, written in Node.js
-- A bunch of [Minecraft resource packs](https://www.planetminecraft.com/member/beatso/submissions/texture-packs/?morder=order_popularity), that I publish on Custom and Planet Minecraft
+- A bunch of [Minecraft resource packs](https://www.planetminecraft.com/member/beatso/submissions/texture-packs/?morder=order_popularity), that I publish on LIC and Planet Minecraft
 - [Simple Auto Clicker](https://github.com/Beatso/SimpleAutoClicker), an open-source clicker also made for Minecraft, written in AHK
+- A bunch of discord bots, including [Picasso](https://github.com/Beatso/Picasso), an open-source bot to scale pixel art to make it easily viewable in a discord channel, written in Discord.js
 - [RedditSpyglass](https://github.com/Beatso/RedditSpyglass), a simple website to see reddit post scores even if they are hidden
-- A bunch of discord bots, including [Pinn](https://github.com/Beatso/Pinn), an simple open-source bot that allows anyone to pin messages, written in Node.js
 
 ---
 
