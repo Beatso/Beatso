@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#177](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/177) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Closed issue [#6](https://github.com/MuddysBundle/MuddysBundle/issues/6) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-3. ❗️ Closed issue [#5](https://github.com/MuddysBundle/MuddysBundle/issues/5) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-4. ❗️ Closed issue [#10](https://github.com/MuddysBundle/MuddysBundle/issues/10) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. ❗️ Closed issue [#11](https://github.com/MuddysBundle/MuddysBundle/issues/11) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+1. 🎉 Merged PR [#13](https://github.com/MuddysBundle/MuddysBundle/pull/13) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+2. ❗️ Opened issue [#177](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/177) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#6](https://github.com/MuddysBundle/MuddysBundle/issues/6) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. ❗️ Closed issue [#5](https://github.com/MuddysBundle/MuddysBundle/issues/5) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❗️ Closed issue [#10](https://github.com/MuddysBundle/MuddysBundle/issues/10) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
