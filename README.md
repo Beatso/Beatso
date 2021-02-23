@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Beatso/Beatso/issues/1) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
-2. 🎉 Merged PR [#13](https://github.com/MuddysBundle/MuddysBundle/pull/13) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-3. ❗️ Opened issue [#177](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/177) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Closed issue [#6](https://github.com/MuddysBundle/MuddysBundle/issues/6) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. ❗️ Closed issue [#5](https://github.com/MuddysBundle/MuddysBundle/issues/5) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+1. 🎉 Merged PR [#178](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/178) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🎉 Merged PR [#179](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/179) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#1](https://github.com/Beatso/Beatso/issues/1) in [Beatso/Beatso](https://github.com/Beatso/Beatso)
+4. 🎉 Merged PR [#13](https://github.com/MuddysBundle/MuddysBundle/pull/13) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❗️ Opened issue [#177](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/177) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
