@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#183](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/183) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#182](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/182) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#181](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/181) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. ❗️ Opened issue [#180](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/180) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🎉 Merged PR [#178](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/178) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 🎉 Merged PR [#2](https://github.com/Beatso/ScalePixelArt/pull/2) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+2. ❗️ Opened issue [#183](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/183) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#182](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/182) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#181](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/181) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Opened issue [#180](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/180) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
