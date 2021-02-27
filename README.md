@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Beatso/Website/issues/5) in [Beatso/Website](https://github.com/Beatso/Website)
-2. ❗️ Opened issue [#5](https://github.com/Beatso/Website/issues/5) in [Beatso/Website](https://github.com/Beatso/Website)
-3. 🎉 Merged PR [#2](https://github.com/Beatso/ScalePixelArt/pull/2) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
-4. ❗️ Opened issue [#183](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/183) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Opened issue [#182](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/182) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. 💪 Opened PR [#72](https://github.com/TheMrZZ/sandstone/pull/72) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
+2. 🎉 Merged PR [#1](https://github.com/Beatso/sandstone/pull/1) in [Beatso/sandstone](https://github.com/Beatso/sandstone)
+3. 💪 Opened PR [#1](https://github.com/Beatso/sandstone/pull/1) in [Beatso/sandstone](https://github.com/Beatso/sandstone)
+4. ❗️ Opened issue [#71](https://github.com/TheMrZZ/sandstone/issues/71) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
+5. ❗️ Closed issue [#5](https://github.com/Beatso/Website/issues/5) in [Beatso/Website](https://github.com/Beatso/Website)
 <!--END_SECTION:activity-->
 
 ---
