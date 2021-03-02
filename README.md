@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/186) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🎉 Merged PR [#185](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/185) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. 🎉 Merged PR [#170](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/170) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-4. 🗣 Commented on [#184](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/184) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 💪 Opened PR [#72](https://github.com/TheMrZZ/sandstone/pull/72) in [TheMrZZ/sandstone](https://github.com/TheMrZZ/sandstone)
+1. 🗣 Commented on [#187](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/187) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#187](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/187) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🗣 Commented on [#171](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/171) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🎉 Merged PR [#186](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/186) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🎉 Merged PR [#185](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/185) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
 <!--END_SECTION:activity-->
 
 ---
