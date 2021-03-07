@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Vanilla-Extract/Extractor/issues/1) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. 🗣 Commented on [#3](https://github.com/Beatso/Schubert/issues/3) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-3. ❗️ Opened issue [#2](https://github.com/ewanhowell5195/resourcePackConverter/issues/2) in [ewanhowell5195/resourcePackConverter](https://github.com/ewanhowell5195/resourcePackConverter)
-4. 🗣 Commented on [#1](https://github.com/Vanilla-Extract/Extractor/issues/1) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-5. ❗️ Opened issue [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. 🎉 Merged PR [#47](https://github.com/Beatso/Bjorn/pull/47) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 🎉 Merged PR [#30](https://github.com/Beatso/Bjorn/pull/30) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Closed issue [#29](https://github.com/Beatso/Bjorn/issues/29) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 💪 Opened PR [#47](https://github.com/Beatso/Bjorn/pull/47) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🗣 Commented on [#1](https://github.com/Vanilla-Extract/Extractor/issues/1) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
 <!--END_SECTION:activity-->
 
 ---
