@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/Beatso/Bjorn/issues/48) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. 🎉 Merged PR [#49](https://github.com/Beatso/Bjorn/pull/49) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 💪 Opened PR [#49](https://github.com/Beatso/Bjorn/pull/49) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🎉 Merged PR [#47](https://github.com/Beatso/Bjorn/pull/47) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🎉 Merged PR [#30](https://github.com/Beatso/Bjorn/pull/30) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🎉 Merged PR [#50](https://github.com/Beatso/Bjorn/pull/50) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 💪 Opened PR [#50](https://github.com/Beatso/Bjorn/pull/50) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Closed issue [#48](https://github.com/Beatso/Bjorn/issues/48) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🎉 Merged PR [#49](https://github.com/Beatso/Bjorn/pull/49) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 💪 Opened PR [#49](https://github.com/Beatso/Bjorn/pull/49) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
