@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5209](https://github.com/darkreader/darkreader/issues/5209) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. ❗️ Closed issue [#53](https://github.com/Beatso/Bjorn/issues/53) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❗️ Opened issue [#53](https://github.com/Beatso/Bjorn/issues/53) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Closed issue [#52](https://github.com/Beatso/Bjorn/issues/52) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#52](https://github.com/Beatso/Bjorn/issues/52) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🗣 Commented on [#5209](https://github.com/darkreader/darkreader/issues/5209) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+2. ❗️ Opened issue [#5209](https://github.com/darkreader/darkreader/issues/5209) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❗️ Closed issue [#53](https://github.com/Beatso/Bjorn/issues/53) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Opened issue [#53](https://github.com/Beatso/Bjorn/issues/53) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Closed issue [#52](https://github.com/Beatso/Bjorn/issues/52) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
