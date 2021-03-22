@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/Beatso/Picasso/issues/11) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. 🎉 Merged PR [#54](https://github.com/Beatso/Bjorn/pull/54) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🗣 Commented on [#55](https://github.com/Beatso/Bjorn/issues/55) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Closed issue [#3](https://github.com/Beatso/Schubert/issues/3) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-5. 🗣 Commented on [#5209](https://github.com/darkreader/darkreader/issues/5209) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+1. ❗️ Opened issue [#8](https://github.com/Beatso/SimpleAutoClicker/issues/8) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+2. ❗️ Closed issue [#11](https://github.com/Beatso/Picasso/issues/11) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. 🎉 Merged PR [#54](https://github.com/Beatso/Bjorn/pull/54) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🗣 Commented on [#55](https://github.com/Beatso/Bjorn/issues/55) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Closed issue [#3](https://github.com/Beatso/Schubert/issues/3) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
 <!--END_SECTION:activity-->
 
 ---
