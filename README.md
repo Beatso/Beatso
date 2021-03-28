@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/MuddysBundle/MuddysBundle/issues/25) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-2. ❗️ Opened issue [#198](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/198) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#59](https://github.com/Beatso/Bjorn/issues/59) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Opened issue [#8](https://github.com/Beatso/SimpleAutoClicker/issues/8) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-5. ❗️ Closed issue [#11](https://github.com/Beatso/Picasso/issues/11) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. ❗️ Opened issue [#9](https://github.com/Beatso/SimpleAutoClicker/issues/9) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+2. ❗️ Opened issue [#25](https://github.com/MuddysBundle/MuddysBundle/issues/25) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. ❗️ Opened issue [#198](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/198) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Opened issue [#59](https://github.com/Beatso/Bjorn/issues/59) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. ❗️ Opened issue [#8](https://github.com/Beatso/SimpleAutoClicker/issues/8) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
 <!--END_SECTION:activity-->
 
 ---
