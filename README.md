@@ -28,9 +28,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/Beatso/SimpleAutoClicker/issues/10) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
 2. 🗣 Commented on [#10](https://github.com/Beatso/SimpleAutoClicker/issues/10) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-3. ❗️ Opened issue [#9](https://github.com/Beatso/SimpleAutoClicker/issues/9) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-4. ❗️ Opened issue [#25](https://github.com/MuddysBundle/MuddysBundle/issues/25) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. ❗️ Opened issue [#198](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/198) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🗣 Commented on [#10](https://github.com/Beatso/SimpleAutoClicker/issues/10) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+4. ❗️ Opened issue [#9](https://github.com/Beatso/SimpleAutoClicker/issues/9) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+5. ❗️ Opened issue [#25](https://github.com/MuddysBundle/MuddysBundle/issues/25) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
