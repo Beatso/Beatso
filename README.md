@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/MuddysBundle/MuddysBundle/issues/7) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-2. ❗️ Closed issue [#25](https://github.com/MuddysBundle/MuddysBundle/issues/25) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-3. ❗️ Closed issue [#3](https://github.com/MuddysBundle/MuddysBundle/issues/3) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-4. 🎉 Merged PR [#28](https://github.com/MuddysBundle/MuddysBundle/pull/28) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. ❗️ Closed issue [#10](https://github.com/Beatso/SimpleAutoClicker/issues/10) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+1. ❗️ Opened issue [#30](https://github.com/MuddysBundle/MuddysBundle/issues/30) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+2. ❗️ Opened issue [#29](https://github.com/MuddysBundle/MuddysBundle/issues/29) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. ❗️ Closed issue [#9](https://github.com/MuddysBundle/MuddysBundle/issues/9) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. ❗️ Closed issue [#7](https://github.com/MuddysBundle/MuddysBundle/issues/7) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❗️ Closed issue [#25](https://github.com/MuddysBundle/MuddysBundle/issues/25) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
