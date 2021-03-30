@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/MuddysBundle/MuddysBundle/issues/39) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+1. ❗️ Closed issue [#30](https://github.com/MuddysBundle/MuddysBundle/issues/30) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 2. 🗣 Commented on [#39](https://github.com/MuddysBundle/MuddysBundle/issues/39) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-3. 🗣 Commented on [#32](https://github.com/MuddysBundle/MuddysBundle/issues/32) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-4. ❗️ Closed issue [#32](https://github.com/MuddysBundle/MuddysBundle/issues/32) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. ❗️ Opened issue [#39](https://github.com/MuddysBundle/MuddysBundle/issues/39) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. 🗣 Commented on [#39](https://github.com/MuddysBundle/MuddysBundle/issues/39) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. 🗣 Commented on [#32](https://github.com/MuddysBundle/MuddysBundle/issues/32) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❗️ Closed issue [#32](https://github.com/MuddysBundle/MuddysBundle/issues/32) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
