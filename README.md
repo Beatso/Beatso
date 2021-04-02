@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/Beatso/Bjorn/pull/58) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. 🎉 Merged PR [#63](https://github.com/Beatso/Bjorn/pull/63) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 💪 Opened PR [#37](https://github.com/Chromus-dev/actual-bot/pull/37) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🎉 Merged PR [#61](https://github.com/Beatso/Bjorn/pull/61) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Closed issue [#30](https://github.com/MuddysBundle/MuddysBundle/issues/30) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+1. ❌ Closed PR [#37](https://github.com/Chromus-dev/actual-bot/pull/37) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+2. 🗣 Commented on [#37](https://github.com/Chromus-dev/actual-bot/issues/37) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
+3. 🎉 Merged PR [#64](https://github.com/Beatso/Bjorn/pull/64) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🎉 Merged PR [#60](https://github.com/Beatso/Bjorn/pull/60) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🎉 Merged PR [#58](https://github.com/Beatso/Bjorn/pull/58) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
