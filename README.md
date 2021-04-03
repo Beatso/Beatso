@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#55](https://github.com/Beatso/Bjorn/issues/55) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❌ Closed PR [#37](https://github.com/Chromus-dev/actual-bot/pull/37) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-3. 🗣 Commented on [#37](https://github.com/Chromus-dev/actual-bot/issues/37) in [Chromus-dev/actual-bot](https://github.com/Chromus-dev/actual-bot)
-4. 🎉 Merged PR [#64](https://github.com/Beatso/Bjorn/pull/64) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🎉 Merged PR [#60](https://github.com/Beatso/Bjorn/pull/60) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Closed issue [#43](https://github.com/MuddysBundle/MuddysBundle/issues/43) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+2. ❗️ Opened issue [#47](https://github.com/MuddysBundle/MuddysBundle/issues/47) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. ❗️ Opened issue [#46](https://github.com/MuddysBundle/MuddysBundle/issues/46) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. 🗣 Commented on [#43](https://github.com/MuddysBundle/MuddysBundle/issues/43) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❗️ Opened issue [#45](https://github.com/MuddysBundle/MuddysBundle/issues/45) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
