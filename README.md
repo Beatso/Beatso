@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Beatso/NewBjorn/issues/4) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
-2. ❗️ Opened issue [#12](https://github.com/Beatso/SimpleAutoClicker/issues/12) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-3. ❗️ Opened issue [#11](https://github.com/Beatso/SimpleAutoClicker/issues/11) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
-4. ❗️ Opened issue [#204](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/204) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. ❗️ Closed issue [#203](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/203) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+1. ❗️ Opened issue [#5](https://github.com/Beatso/NewBjorn/issues/5) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
+2. ❗️ Closed issue [#4](https://github.com/Beatso/NewBjorn/issues/4) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
+3. ❗️ Opened issue [#4](https://github.com/Beatso/NewBjorn/issues/4) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
+4. ❗️ Opened issue [#12](https://github.com/Beatso/SimpleAutoClicker/issues/12) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
+5. ❗️ Opened issue [#11](https://github.com/Beatso/SimpleAutoClicker/issues/11) in [Beatso/SimpleAutoClicker](https://github.com/Beatso/SimpleAutoClicker)
 <!--END_SECTION:activity-->
 
 ---
