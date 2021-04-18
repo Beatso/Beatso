@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/Beatso/ScalePixelArt/issues/5) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
-2. ❗️ Opened issue [#15](https://github.com/Beatso/Picasso/issues/15) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. ❗️ Opened issue [#13](https://github.com/Beatso/NewBjorn/issues/13) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
-4. ❗️ Opened issue [#12](https://github.com/Beatso/NewBjorn/issues/12) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
-5. ❗️ Opened issue [#11](https://github.com/Beatso/NewBjorn/issues/11) in [Beatso/NewBjorn](https://github.com/Beatso/NewBjorn)
+1. 🎉 Merged PR [#70](https://github.com/Beatso/Bjorn/pull/70) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Closed issue [#59](https://github.com/Beatso/Bjorn/issues/59) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🎉 Merged PR [#69](https://github.com/Beatso/Bjorn/pull/69) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Closed issue [#51](https://github.com/Beatso/Bjorn/issues/51) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🎉 Merged PR [#68](https://github.com/Beatso/Bjorn/pull/68) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
