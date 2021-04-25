@@ -27,10 +27,10 @@
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#72](https://github.com/Beatso/Bjorn/issues/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❌ Closed PR [#72](https://github.com/Beatso/Bjorn/pull/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. 🗣 Commented on [#72](https://github.com/Beatso/Bjorn/issues/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 3. 🗣 Commented on [#72](https://github.com/Beatso/Bjorn/issues/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. ❗️ Closed issue [#29](https://github.com/MuddysBundle/MuddysBundle/issues/29) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. 🗣 Commented on [#29](https://github.com/MuddysBundle/MuddysBundle/issues/29) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. ❌ Closed PR [#72](https://github.com/Beatso/Bjorn/pull/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🗣 Commented on [#72](https://github.com/Beatso/Bjorn/issues/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
