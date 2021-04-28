@@ -26,10 +26,10 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#74](https://github.com/Beatso/Bjorn/issues/74) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#74](https://github.com/Beatso/Bjorn/issues/74) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❗️ Opened issue [#73](https://github.com/Beatso/Bjorn/issues/73) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#72](https://github.com/Beatso/Bjorn/issues/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Opened issue [#77](https://github.com/Beatso/Bjorn/issues/77) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Closed issue [#74](https://github.com/Beatso/Bjorn/issues/74) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❗️ Opened issue [#74](https://github.com/Beatso/Bjorn/issues/74) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. ❗️ Opened issue [#73](https://github.com/Beatso/Bjorn/issues/73) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 5. 🗣 Commented on [#72](https://github.com/Beatso/Bjorn/issues/72) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
