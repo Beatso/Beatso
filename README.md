@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/MuddysBundle/MuddysBundle/pull/56) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-2. 🎉 Merged PR [#54](https://github.com/MuddysBundle/MuddysBundle/pull/54) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-3. 🎉 Merged PR [#58](https://github.com/MuddysBundle/MuddysBundle/pull/58) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-4. ❌ Closed PR [#84](https://github.com/Beatso/Bjorn/pull/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. ❗️ Opened issue [#82](https://github.com/Beatso/Bjorn/issues/82) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. 🎉 Merged PR [#60](https://github.com/MuddysBundle/MuddysBundle/pull/60) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+2. 🎉 Merged PR [#21](https://github.com/MuddysBundle/MuddysBundle/pull/21) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. 🎉 Merged PR [#19](https://github.com/MuddysBundle/MuddysBundle/pull/19) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. 🗣 Commented on [#37](https://github.com/MuddysBundle/MuddysBundle/issues/37) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❗️ Opened issue [#66](https://github.com/MuddysBundle/MuddysBundle/issues/66) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
