@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/Beatso/Bjorn/pull/78) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. 🎉 Merged PR [#89](https://github.com/Beatso/Bjorn/pull/89) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🎉 Merged PR [#69](https://github.com/MuddysBundle/MuddysBundle/pull/69) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-4. 🎉 Merged PR [#68](https://github.com/MuddysBundle/MuddysBundle/pull/68) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. 🎉 Merged PR [#67](https://github.com/MuddysBundle/MuddysBundle/pull/67) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+1. 🎉 Merged PR [#4](https://github.com/Beatso/TranslateNonsense/pull/4) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+2. 🎉 Merged PR [#6](https://github.com/Beatso/ScalePixelArt/pull/6) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+3. ❌ Reopened PR [#6](https://github.com/Beatso/Schubert/pull/6) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+4. ❌ Closed PR [#6](https://github.com/Beatso/Schubert/pull/6) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+5. 🎉 Merged PR [#11](https://github.com/Beatso/Schubert/pull/11) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
 <!--END_SECTION:activity-->
 
 ---
