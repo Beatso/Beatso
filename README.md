@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/MuddysBundle/MuddysBundle/pull/60) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-2. 🎉 Merged PR [#21](https://github.com/MuddysBundle/MuddysBundle/pull/21) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-3. 🎉 Merged PR [#19](https://github.com/MuddysBundle/MuddysBundle/pull/19) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-4. 🗣 Commented on [#37](https://github.com/MuddysBundle/MuddysBundle/issues/37) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
-5. ❗️ Opened issue [#66](https://github.com/MuddysBundle/MuddysBundle/issues/66) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+1. 🎉 Merged PR [#69](https://github.com/MuddysBundle/MuddysBundle/pull/69) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+2. 🎉 Merged PR [#68](https://github.com/MuddysBundle/MuddysBundle/pull/68) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+3. 🎉 Merged PR [#67](https://github.com/MuddysBundle/MuddysBundle/pull/67) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+4. ❌ Closed PR [#64](https://github.com/MuddysBundle/MuddysBundle/pull/64) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
+5. ❌ Closed PR [#63](https://github.com/MuddysBundle/MuddysBundle/pull/63) in [MuddysBundle/MuddysBundle](https://github.com/MuddysBundle/MuddysBundle)
 <!--END_SECTION:activity-->
 
 ---
