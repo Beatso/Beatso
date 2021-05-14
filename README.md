@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/Beatso/Bjorn/issues/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❌ Closed PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🎉 Merged PR [#4](https://github.com/Beatso/TranslateNonsense/pull/4) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-5. 🎉 Merged PR [#6](https://github.com/Beatso/ScalePixelArt/pull/6) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+1. 🗣 Commented on [#183](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/183) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🗣 Commented on [#84](https://github.com/Beatso/Bjorn/issues/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. ❌ Closed PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+5. 🎉 Merged PR [#4](https://github.com/Beatso/TranslateNonsense/pull/4) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
 <!--END_SECTION:activity-->
 
 ---
