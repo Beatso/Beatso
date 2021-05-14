@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Beatso/TranslateNonsense/pull/4) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
-2. 🎉 Merged PR [#6](https://github.com/Beatso/ScalePixelArt/pull/6) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
-3. ❌ Reopened PR [#6](https://github.com/Beatso/Schubert/pull/6) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-4. ❌ Closed PR [#6](https://github.com/Beatso/Schubert/pull/6) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-5. 🎉 Merged PR [#11](https://github.com/Beatso/Schubert/pull/11) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+1. 🗣 Commented on [#84](https://github.com/Beatso/Bjorn/issues/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❌ Closed PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🎉 Merged PR [#4](https://github.com/Beatso/TranslateNonsense/pull/4) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+5. 🎉 Merged PR [#6](https://github.com/Beatso/ScalePixelArt/pull/6) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
 <!--END_SECTION:activity-->
 
 ---
