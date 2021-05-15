@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/183) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🗣 Commented on [#84](https://github.com/Beatso/Bjorn/issues/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. ❌ Closed PR [#92](https://github.com/Beatso/Bjorn/pull/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-5. 🎉 Merged PR [#4](https://github.com/Beatso/TranslateNonsense/pull/4) in [Beatso/TranslateNonsense](https://github.com/Beatso/TranslateNonsense)
+1. ❗️ Closed issue [#23](https://github.com/Vanilla-Extract/Extractor/issues/23) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+2. 🗣 Commented on [#85](https://github.com/Beatso/Bjorn/issues/85) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+4. 🗣 Commented on [#183](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/183) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. 🗣 Commented on [#84](https://github.com/Beatso/Bjorn/issues/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
