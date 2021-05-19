@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/Vanilla-Extract/Extractor/issues/23) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
-2. 🗣 Commented on [#85](https://github.com/Beatso/Bjorn/issues/85) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🗣 Commented on [#92](https://github.com/Beatso/Bjorn/issues/92) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-4. 🗣 Commented on [#183](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/183) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-5. 🗣 Commented on [#84](https://github.com/Beatso/Bjorn/issues/84) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+1. ❗️ Reopened issue [#222](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/222) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Closed issue [#222](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/222) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. 🗣 Commented on [#222](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/222) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. ❗️ Closed issue [#23](https://github.com/Vanilla-Extract/Extractor/issues/23) in [Vanilla-Extract/Extractor](https://github.com/Vanilla-Extract/Extractor)
+5. 🗣 Commented on [#85](https://github.com/Beatso/Bjorn/issues/85) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
