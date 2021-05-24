@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Beatso/Pinn/pull/12) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
-2. 🗣 Commented on [#9](https://github.com/Beatso/Pinn/issues/9) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
-3. 🎉 Merged PR [#10](https://github.com/Beatso/Pinn/pull/10) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
-4. ❗️ Closed issue [#11](https://github.com/Beatso/Pinn/issues/11) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
-5. 🗣 Commented on [#11](https://github.com/Beatso/Pinn/issues/11) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
+1. ❗️ Closed issue [#95](https://github.com/Beatso/Bjorn/issues/95) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+2. ❗️ Opened issue [#95](https://github.com/Beatso/Bjorn/issues/95) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
+3. 🎉 Merged PR [#12](https://github.com/Beatso/Pinn/pull/12) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
+4. 🗣 Commented on [#9](https://github.com/Beatso/Pinn/issues/9) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
+5. 🎉 Merged PR [#10](https://github.com/Beatso/Pinn/pull/10) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
 <!--END_SECTION:activity-->
 
 ---
