@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#95](https://github.com/Beatso/Bjorn/issues/95) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-2. ❗️ Opened issue [#95](https://github.com/Beatso/Bjorn/issues/95) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
-3. 🎉 Merged PR [#12](https://github.com/Beatso/Pinn/pull/12) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
-4. 🗣 Commented on [#9](https://github.com/Beatso/Pinn/issues/9) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
-5. 🎉 Merged PR [#10](https://github.com/Beatso/Pinn/pull/10) in [Beatso/Pinn](https://github.com/Beatso/Pinn)
+1. 🗣 Commented on [#2732](https://github.com/lovell/sharp/issues/2732) in [lovell/sharp](https://github.com/lovell/sharp)
+2. ❌ Closed PR [#4](https://github.com/Beatso/ScalePixelArt/pull/4) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+3. 🗣 Commented on [#4](https://github.com/Beatso/ScalePixelArt/issues/4) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+4. 🎉 Merged PR [#8](https://github.com/Beatso/ScalePixelArt/pull/8) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+5. ❗️ Closed issue [#95](https://github.com/Beatso/Bjorn/issues/95) in [Beatso/Bjorn](https://github.com/Beatso/Bjorn)
 <!--END_SECTION:activity-->
 
 ---
