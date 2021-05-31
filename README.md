@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Beatso/Picasso/pull/25) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. 🗣 Commented on [#2732](https://github.com/lovell/sharp/issues/2732) in [lovell/sharp](https://github.com/lovell/sharp)
-3. ❌ Closed PR [#4](https://github.com/Beatso/ScalePixelArt/pull/4) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
-4. 🗣 Commented on [#4](https://github.com/Beatso/ScalePixelArt/issues/4) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
-5. 🎉 Merged PR [#8](https://github.com/Beatso/ScalePixelArt/pull/8) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
+1. 🎉 Merged PR [#8](https://github.com/Beatso/Chubot/pull/8) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
+2. 🎉 Merged PR [#12](https://github.com/Beatso/Chubot/pull/12) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
+3. 🎉 Merged PR [#25](https://github.com/Beatso/Picasso/pull/25) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. 🗣 Commented on [#2732](https://github.com/lovell/sharp/issues/2732) in [lovell/sharp](https://github.com/lovell/sharp)
+5. ❌ Closed PR [#4](https://github.com/Beatso/ScalePixelArt/pull/4) in [Beatso/ScalePixelArt](https://github.com/Beatso/ScalePixelArt)
 <!--END_SECTION:activity-->
 
 ---
