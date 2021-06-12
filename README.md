@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/Beatso/Schubert/issues/15) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-2. ❗️ Opened issue [#14](https://github.com/Beatso/Schubert/issues/14) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-3. 🎉 Merged PR [#8](https://github.com/Beatso/Chubot/pull/8) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
-4. 🎉 Merged PR [#12](https://github.com/Beatso/Chubot/pull/12) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
-5. 🎉 Merged PR [#25](https://github.com/Beatso/Picasso/pull/25) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. ❗️ Opened issue [#16](https://github.com/Beatso/Schubert/issues/16) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+2. ❗️ Opened issue [#15](https://github.com/Beatso/Schubert/issues/15) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+3. ❗️ Opened issue [#14](https://github.com/Beatso/Schubert/issues/14) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+4. 🎉 Merged PR [#8](https://github.com/Beatso/Chubot/pull/8) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
+5. 🎉 Merged PR [#12](https://github.com/Beatso/Chubot/pull/12) in [Beatso/Chubot](https://github.com/Beatso/Chubot)
 <!--END_SECTION:activity-->
 
 ---
