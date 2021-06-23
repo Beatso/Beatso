@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/Beatso/BeatsosAdditions/issues/11) in [Beatso/BeatsosAdditions](https://github.com/Beatso/BeatsosAdditions)
-2. ❗️ Opened issue [#11](https://github.com/Beatso/BeatsosAdditions/issues/11) in [Beatso/BeatsosAdditions](https://github.com/Beatso/BeatsosAdditions)
-3. ❗️ Opened issue [#16](https://github.com/Beatso/Schubert/issues/16) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-4. ❗️ Opened issue [#15](https://github.com/Beatso/Schubert/issues/15) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
-5. ❗️ Opened issue [#14](https://github.com/Beatso/Schubert/issues/14) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+1. 🎉 Merged PR [#231](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/231) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. 🎉 Merged PR [#234](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/234) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Closed issue [#11](https://github.com/Beatso/BeatsosAdditions/issues/11) in [Beatso/BeatsosAdditions](https://github.com/Beatso/BeatsosAdditions)
+4. ❗️ Opened issue [#11](https://github.com/Beatso/BeatsosAdditions/issues/11) in [Beatso/BeatsosAdditions](https://github.com/Beatso/BeatsosAdditions)
+5. ❗️ Opened issue [#16](https://github.com/Beatso/Schubert/issues/16) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
 <!--END_SECTION:activity-->
 
 ---
