@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/231) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. 🎉 Merged PR [#234](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/234) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Closed issue [#11](https://github.com/Beatso/BeatsosAdditions/issues/11) in [Beatso/BeatsosAdditions](https://github.com/Beatso/BeatsosAdditions)
-4. ❗️ Opened issue [#11](https://github.com/Beatso/BeatsosAdditions/issues/11) in [Beatso/BeatsosAdditions](https://github.com/Beatso/BeatsosAdditions)
-5. ❗️ Opened issue [#16](https://github.com/Beatso/Schubert/issues/16) in [Beatso/Schubert](https://github.com/Beatso/Schubert)
+1. 🎉 Merged PR [#2](https://github.com/Beatso/typescript-react-node-template/pull/2) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+2. 🎉 Merged PR [#1](https://github.com/Beatso/typescript-react-node-template/pull/1) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+3. 🎉 Merged PR [#231](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/231) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+4. 🎉 Merged PR [#234](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/pull/234) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+5. ❗️ Closed issue [#11](https://github.com/Beatso/BeatsosAdditions/issues/11) in [Beatso/BeatsosAdditions](https://github.com/Beatso/BeatsosAdditions)
 <!--END_SECTION:activity-->
 
 ---
