@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/Beatso/typescript-react-node-template/issues/8) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-2. ❗️ Closed issue [#7](https://github.com/Beatso/typescript-react-node-template/issues/7) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-3. 🗣 Commented on [#7](https://github.com/Beatso/typescript-react-node-template/issues/7) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-4. ❗️ Opened issue [#10](https://github.com/Beatso/typescript-react-node-template/issues/10) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-5. ❗️ Opened issue [#9](https://github.com/Beatso/typescript-react-node-template/issues/9) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+1. ❗️ Closed issue [#10](https://github.com/Beatso/typescript-react-node-template/issues/10) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+2. ❗️ Closed issue [#9](https://github.com/Beatso/typescript-react-node-template/issues/9) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+3. 🗣 Commented on [#9](https://github.com/Beatso/typescript-react-node-template/issues/9) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+4. ❗️ Closed issue [#8](https://github.com/Beatso/typescript-react-node-template/issues/8) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+5. ❗️ Closed issue [#7](https://github.com/Beatso/typescript-react-node-template/issues/7) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
 <!--END_SECTION:activity-->
 
 ---
