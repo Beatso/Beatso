@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Beatso/typescript-react-node-template/pull/16) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-2. 🎉 Merged PR [#14](https://github.com/Beatso/typescript-react-node-template/pull/14) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-3. 🎉 Merged PR [#12](https://github.com/Beatso/typescript-react-node-template/pull/12) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-4. ❌ Closed PR [#11](https://github.com/Beatso/typescript-react-node-template/pull/11) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-5. 💪 Opened PR [#11](https://github.com/Beatso/typescript-react-node-template/pull/11) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+1. 🎉 Merged PR [#15](https://github.com/Beatso/typescript-react-node-template/pull/15) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+2. 🎉 Merged PR [#13](https://github.com/Beatso/typescript-react-node-template/pull/13) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+3. 🎉 Merged PR [#16](https://github.com/Beatso/typescript-react-node-template/pull/16) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+4. 🎉 Merged PR [#14](https://github.com/Beatso/typescript-react-node-template/pull/14) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+5. 🎉 Merged PR [#12](https://github.com/Beatso/typescript-react-node-template/pull/12) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
 <!--END_SECTION:activity-->
 
 ---
