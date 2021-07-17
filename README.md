@@ -1,9 +1,10 @@
 <h1 align="center">I'm Beatso! 👋</h1>
 
-- 🔭 I’m currently working on [Little Improvements: Custom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/)
-- 📫 Reach me on discord Beatso#1815 or on [my server](https://discord.gg/bNcZjFe)
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on [an online pictionary game](https://github.com/Beatso/pictionary)
+- 🌱 I’m learning [MERN stack](https://www.mongodb.com/mern-stack) with [TypeScript](https://www.typescriptlang.org/)
+- 📫 Reach me on discord on [my server](https://discord.gg/bNcZjFe)
+- 😄 he/him
+- 🌍 UK - GMT+1
 
 ---
 
@@ -11,7 +12,8 @@
 [Website](https://www.beatso.tk/) | 
 [Planet Minecraft](https://www.planetminecraft.com/member/beatso/) |
 [Discord Server](https://discord.gg/bNcZjFe) |
-[Twitter](https://twitter.com/beatso_)
+[Twitter](https://twitter.com/beatso_) |
+[npm](https://www.npmjs.com/~beatso)
 
 ---
 
@@ -20,7 +22,7 @@
 - A bunch of [Minecraft resource packs](https://www.planetminecraft.com/member/beatso/submissions/texture-packs/?morder=order_popularity), that I publish on LIC and Planet Minecraft
 - [Simple Auto Clicker](https://github.com/Beatso/SimpleAutoClicker), an open-source clicker also made for Minecraft, written in AHK
 - A bunch of discord bots, including [Picasso](https://github.com/Beatso/Picasso), an open-source bot to scale pixel art to make it easily viewable in a discord channel, written in Discord.js
-- [RedditSpyglass](https://github.com/Beatso/RedditSpyglass), a simple website to see reddit post scores even if they are hidden
+- [Pictionary](https://github.com/Beatso/pictionary), an online recreation of the popular game (still a work in progress)
 
 ---
 
