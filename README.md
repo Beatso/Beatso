@@ -28,11 +28,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Beatso/typescript-react-node-template/issues/18) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-2. 🎉 Merged PR [#17](https://github.com/Beatso/typescript-react-node-template/pull/17) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-3. 🎉 Merged PR [#19](https://github.com/Beatso/typescript-react-node-template/pull/19) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-4. 🎉 Merged PR [#20](https://github.com/Beatso/typescript-react-node-template/pull/20) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-5. 🎉 Merged PR [#15](https://github.com/Beatso/typescript-react-node-template/pull/15) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+1. 🗣 Commented on [#3](https://github.com/Beatso/pictionary/issues/3) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
+2. 🎉 Merged PR [#5](https://github.com/Beatso/pictionary/pull/5) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
+3. 🎉 Merged PR [#1](https://github.com/Beatso/pictionary/pull/1) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
+4. 🎉 Merged PR [#2](https://github.com/Beatso/pictionary/pull/2) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
+5. 🎉 Merged PR [#4](https://github.com/Beatso/pictionary/pull/4) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
 <!--END_SECTION:activity-->
 
 ---
