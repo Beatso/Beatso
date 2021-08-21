@@ -28,11 +28,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Beatso/Picasso/pull/28) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. 💪 Opened PR [#28](https://github.com/Beatso/Picasso/pull/28) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. ❌ Closed PR [#23](https://github.com/Beatso/Picasso/pull/23) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. 🗣 Commented on [#23](https://github.com/Beatso/Picasso/issues/23) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. ❌ Closed PR [#26](https://github.com/Beatso/Picasso/pull/26) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. ❗️ Closed issue [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. 🗣 Commented on [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. ❗️ Closed issue [#22](https://github.com/Beatso/Picasso/issues/22) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. 🗣 Commented on [#22](https://github.com/Beatso/Picasso/issues/22) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. ❗️ Closed issue [#24](https://github.com/Beatso/Picasso/issues/24) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
