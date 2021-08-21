@@ -28,11 +28,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Beatso/typescript-react-node-template/issues/23) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-2. 🎉 Merged PR [#24](https://github.com/Beatso/typescript-react-node-template/pull/24) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-3. 🗣 Commented on [#3](https://github.com/Beatso/pictionary/issues/3) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
-4. 🎉 Merged PR [#5](https://github.com/Beatso/pictionary/pull/5) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
-5. 🎉 Merged PR [#1](https://github.com/Beatso/pictionary/pull/1) in [Beatso/pictionary](https://github.com/Beatso/pictionary)
+1. 🎉 Merged PR [#28](https://github.com/Beatso/Picasso/pull/28) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. 💪 Opened PR [#28](https://github.com/Beatso/Picasso/pull/28) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. ❌ Closed PR [#23](https://github.com/Beatso/Picasso/pull/23) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. 🗣 Commented on [#23](https://github.com/Beatso/Picasso/issues/23) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. ❌ Closed PR [#26](https://github.com/Beatso/Picasso/pull/26) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
