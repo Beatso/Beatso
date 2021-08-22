@@ -28,11 +28,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. 🗣 Commented on [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. ❗️ Closed issue [#22](https://github.com/Beatso/Picasso/issues/22) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. 🗣 Commented on [#22](https://github.com/Beatso/Picasso/issues/22) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. ❗️ Closed issue [#24](https://github.com/Beatso/Picasso/issues/24) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. ❗️ Opened issue [#1](https://github.com/NeraWoowty/nerawoowty.github.io/issues/1) in [NeraWoowty/nerawoowty.github.io](https://github.com/NeraWoowty/nerawoowty.github.io)
+2. ❗️ Closed issue [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. 🗣 Commented on [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. ❗️ Closed issue [#22](https://github.com/Beatso/Picasso/issues/22) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. 🗣 Commented on [#22](https://github.com/Beatso/Picasso/issues/22) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
