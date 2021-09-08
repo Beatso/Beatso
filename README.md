@@ -28,11 +28,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/Beatso/typescript-react-node-template/issues/32) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-2. ❗️ Opened issue [#1](https://github.com/NeraWoowty/nerawoowty.github.io/issues/1) in [NeraWoowty/nerawoowty.github.io](https://github.com/NeraWoowty/nerawoowty.github.io)
-3. ❗️ Closed issue [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. 🗣 Commented on [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. ❗️ Closed issue [#22](https://github.com/Beatso/Picasso/issues/22) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. ❗️ Opened issue [#249](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/249) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+2. ❗️ Opened issue [#248](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/248) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
+3. ❗️ Opened issue [#32](https://github.com/Beatso/typescript-react-node-template/issues/32) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
+4. ❗️ Opened issue [#1](https://github.com/NeraWoowty/nerawoowty.github.io/issues/1) in [NeraWoowty/nerawoowty.github.io](https://github.com/NeraWoowty/nerawoowty.github.io)
+5. ❗️ Closed issue [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
