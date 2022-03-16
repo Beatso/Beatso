@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Beatso/Picasso/pull/40) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-2. 💪 Opened PR [#40](https://github.com/Beatso/Picasso/pull/40) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-3. 🎉 Merged PR [#27](https://github.com/Beatso/Picasso/pull/27) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-4. 🎉 Merged PR [#36](https://github.com/Beatso/Picasso/pull/36) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
-5. 🎉 Merged PR [#39](https://github.com/Beatso/Picasso/pull/39) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. 🗣 Commented on [#66](https://github.com/jamesgeorge007/github-activity-readme/issues/66) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#40](https://github.com/Beatso/Picasso/pull/40) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. 💪 Opened PR [#40](https://github.com/Beatso/Picasso/pull/40) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. 🎉 Merged PR [#27](https://github.com/Beatso/Picasso/pull/27) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. 🎉 Merged PR [#36](https://github.com/Beatso/Picasso/pull/36) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
