@@ -1,7 +1,6 @@
 <h1 align="center">I'm Beatso! 👋</h1>
 
-- 🔭 I’m currently working on [an online pictionary game](https://github.com/Beatso/pictionary)
-- 🌱 I’m learning [MERN stack](https://www.mongodb.com/mern-stack) with [TypeScript](https://www.typescriptlang.org/)
+- 🌱 I’m currently learning [MERN stack](https://www.mongodb.com/mern-stack) with [TypeScript](https://www.typescriptlang.org/)
 - 📫 Reach me on discord on [my server](https://discord.gg/bNcZjFe)
 - 😄 he/him
 - 🌍 UK - GMT+1
@@ -9,7 +8,6 @@
 ---
 
 ## My Links
-[Website](https://www.beatso.tk/) | 
 [Planet Minecraft](https://www.planetminecraft.com/member/beatso/) |
 [Discord Server](https://discord.gg/bNcZjFe) |
 [Twitter](https://twitter.com/beatso_) |
