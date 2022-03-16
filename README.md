@@ -26,11 +26,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#249](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/249) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-2. ❗️ Opened issue [#248](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom/issues/248) in [LittleImprovementsCustom/LittleImprovementsCustom](https://github.com/LittleImprovementsCustom/LittleImprovementsCustom)
-3. ❗️ Opened issue [#32](https://github.com/Beatso/typescript-react-node-template/issues/32) in [Beatso/typescript-react-node-template](https://github.com/Beatso/typescript-react-node-template)
-4. ❗️ Opened issue [#1](https://github.com/NeraWoowty/nerawoowty.github.io/issues/1) in [NeraWoowty/nerawoowty.github.io](https://github.com/NeraWoowty/nerawoowty.github.io)
-5. ❗️ Closed issue [#14](https://github.com/Beatso/Picasso/issues/14) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+1. 🎉 Merged PR [#40](https://github.com/Beatso/Picasso/pull/40) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+2. 💪 Opened PR [#40](https://github.com/Beatso/Picasso/pull/40) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+3. 🎉 Merged PR [#27](https://github.com/Beatso/Picasso/pull/27) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+4. 🎉 Merged PR [#36](https://github.com/Beatso/Picasso/pull/36) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
+5. 🎉 Merged PR [#39](https://github.com/Beatso/Picasso/pull/39) in [Beatso/Picasso](https://github.com/Beatso/Picasso)
 <!--END_SECTION:activity-->
 
 ---
